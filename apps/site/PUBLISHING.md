@@ -60,8 +60,8 @@ npm run release:offline-update -- --minimum 1.3
 
 需要核对：
 
-- 完整 ZIP：`茂一杀-1.5.10-Windows-x64.zip`
-- 累积更新 ZIP：`茂一杀累积更新-1.3-to-1.5.10-Windows-x64.zip`
+- GitHub 完整包资产名：`maoyisha-1.5.10-windows-x64.zip`
+- GitHub 累积更新资产名：`maoyisha-update-1.3-to-1.5.10-windows-x64.zip`
 - SHA-256 文件
 - RELEASE 说明
 
@@ -90,6 +90,8 @@ v1.5.10
 - 累积更新 ZIP
 - SHA-256 文件
 - RELEASE 说明
+
+GitHub Release 附件名建议使用 ASCII，避免中文文件名被 GitHub 清洗后导致下载链接不稳定。
 
 上传后复制两个资源的真实下载地址：
 

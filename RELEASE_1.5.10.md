@@ -25,6 +25,6 @@
 
 ## 交付文件
 
-- `交付/1.5.10/茂一杀-1.5.10-Windows-x64.zip`
-- `交付/1.5.10/茂一杀累积更新-1.3-to-1.5.10-Windows-x64.zip`
-- `交付/1.5.10/SHA256SUMS-茂一杀-1.5.10.txt`
+- `maoyisha-1.5.10-windows-x64.zip`
+- `maoyisha-update-1.3-to-1.5.10-windows-x64.zip`
+- `SHA256SUMS-maoyisha-1.5.10.txt`

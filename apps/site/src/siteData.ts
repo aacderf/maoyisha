@@ -33,17 +33,17 @@ export const release = {
   status: "GitHub Releases",
   fullPackage: {
     label: "Windows 1.5.10 完整包",
-    fileName: "茂一杀-1.5.10-Windows-x64.zip",
+    fileName: "maoyisha-1.5.10-windows-x64.zip",
     size: "约 230 MB",
     sha256: "1ff19cf900bb10cbc7dd37cab5873722b26f909d4d18fc5172fdfd83a4cd1b66",
-    href: "https://github.com/aacderf/maoyisha/releases/download/v1.5.10/茂一杀-1.5.10-Windows-x64.zip",
+    href: "https://github.com/aacderf/maoyisha/releases/download/v1.5.10/maoyisha-1.5.10-windows-x64.zip",
   },
   updatePackage: {
     label: "1.3 到 1.5.10 累积更新包",
-    fileName: "茂一杀累积更新-1.3-to-1.5.10-Windows-x64.zip",
+    fileName: "maoyisha-update-1.3-to-1.5.10-windows-x64.zip",
     size: "约 273 MB",
     sha256: "be8b7eecf952ebb08f117623b2ff04719d45ef786400065a2366f006d9d07fc7",
-    href: "https://github.com/aacderf/maoyisha/releases/download/v1.5.10/茂一杀累积更新-1.3-to-1.5.10-Windows-x64.zip",
+    href: "https://github.com/aacderf/maoyisha/releases/download/v1.5.10/maoyisha-update-1.3-to-1.5.10-windows-x64.zip",
   },
 };
 
