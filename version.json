@@ -1,0 +1,2500 @@
+{
+  "appVersion": "1.5.10",
+  "announcementVersion": "1.5.10",
+  "logicVersion": "1.4",
+  "protocolVersion": "1.4-werewolf-2",
+  "logicMd5": "82afd5ac124e3274a408666e19d5844d",
+  "generatedAt": "2026-07-07T15:15:18.338Z",
+  "files": [
+    {
+      "path": "assets/audio/announcer/heal-expert.mp3",
+      "md5": "3729e78f3e5f999f8e6e5a914de23487",
+      "size": 26250
+    },
+    {
+      "path": "assets/audio/announcer/heal-master.mp3",
+      "md5": "44acc1c343f9154f3745dd96693b11e2",
+      "size": 26877
+    },
+    {
+      "path": "assets/audio/announcer/kill-1.mp3",
+      "md5": "d98f0aeb63699c396e108ad4c8c3ba47",
+      "size": 38078
+    },
+    {
+      "path": "assets/audio/announcer/kill-2.mp3",
+      "md5": "7d043793651e6b6ee285bc79ac1ece2e",
+      "size": 34107
+    },
+    {
+      "path": "assets/audio/announcer/kill-3.mp3",
+      "md5": "5e90b3913d9af62174a161f0d77e62c0",
+      "size": 37242
+    },
+    {
+      "path": "assets/audio/announcer/kill-4.mp3",
+      "md5": "ad0a209c459d183e4ef90d98dfc53a33",
+      "size": 37242
+    },
+    {
+      "path": "assets/audio/announcer/kill-5.mp3",
+      "md5": "1a6f99bdd97345eb73074ca2e9756733",
+      "size": 37451
+    },
+    {
+      "path": "assets/audio/announcer/kill-6.mp3",
+      "md5": "dcbdc2771123b344f52e1678f142842d",
+      "size": 36197
+    },
+    {
+      "path": "assets/audio/announcer/kill-7.mp3",
+      "md5": "292d5ca8fa16c4cb8da915274da83d28",
+      "size": 37869
+    },
+    {
+      "path": "assets/audio/announcer/kill-8.mp3",
+      "md5": "b2e02ac65a6b90916857ad3a3265ed3a",
+      "size": 37326
+    },
+    {
+      "path": "assets/audio/announcer/kill-crazy-1.mp3",
+      "md5": "eb9632eff9575f8ec27aef5c08d89581",
+      "size": 23867
+    },
+    {
+      "path": "assets/audio/announcer/kill-crazy-2.mp3",
+      "md5": "35bf73d1af82694179b7129f600f5a4f",
+      "size": 21653
+    },
+    {
+      "path": "assets/audio/bgm/asphalt.mp3",
+      "md5": "116af281e46a01c7ddc8494fe69519ea",
+      "size": 2532040
+    },
+    {
+      "path": "assets/audio/bgm/battle.mp3",
+      "md5": "fdeb858c25c462ddccfe17547160e5f9",
+      "size": 2231825
+    },
+    {
+      "path": "assets/audio/bgm/gta.mp3",
+      "md5": "82b669967a607eed0aec04c68f525c54",
+      "size": 1415253
+    },
+    {
+      "path": "assets/audio/bgm/happy-poker-1.mp3",
+      "md5": "4caa7d06ff98223e6876b88bdc70af33",
+      "size": 531270
+    },
+    {
+      "path": "assets/audio/bgm/happy-poker-2.mp3",
+      "md5": "836da7c2d523f614577b29043fc0cb40",
+      "size": 504102
+    },
+    {
+      "path": "assets/audio/bgm/happy-poker-3.mp3",
+      "md5": "8de7a18516db4820079a2284760afd81",
+      "size": 489056
+    },
+    {
+      "path": "assets/audio/bgm/happy-poker-4.mp3",
+      "md5": "ead8b2077e8f0d3f98c3cb1fb5c1ae77",
+      "size": 509954
+    },
+    {
+      "path": "assets/audio/bgm/lobby.mp3",
+      "md5": "f10438afe7b41b17ffe3623472adbac0",
+      "size": 622797
+    },
+    {
+      "path": "assets/audio/bgm/passo-funk-djhaiou-remix.mp3",
+      "md5": "de518670eba0624e53c1a4b854c685ac",
+      "size": 2538728
+    },
+    {
+      "path": "assets/audio/bgm/pvz-1.mp3",
+      "md5": "612c91ffca8d50dccf8f34eb856bf7da",
+      "size": 1642623
+    },
+    {
+      "path": "assets/audio/bgm/pvz-2.mp3",
+      "md5": "68bb645703ed5c4f1203d1d8da429596",
+      "size": 3662202
+    },
+    {
+      "path": "assets/audio/bgm/pvz-3.mp3",
+      "md5": "9ae3510d4a53f70f6d52c709509214f1",
+      "size": 1976573
+    },
+    {
+      "path": "assets/audio/bgm/qixi.mp3",
+      "md5": "190f6d731f4ae8768bc7268cc02bb6e7",
+      "size": 1110378
+    },
+    {
+      "path": "assets/audio/bgm/ryukyu.mp3",
+      "md5": "48368ed81ad5443860870e2caa5e7007",
+      "size": 3961773
+    },
+    {
+      "path": "assets/audio/bgm/sgs-1.mp3",
+      "md5": "7b3319dc8f6fb43f91abdf974c83a955",
+      "size": 3544337
+    },
+    {
+      "path": "assets/audio/bgm/sgs-2.mp3",
+      "md5": "910bffdedad6c77efc1b2bb2e9997161",
+      "size": 2312612
+    },
+    {
+      "path": "assets/audio/bgm/sgs-3.mp3",
+      "md5": "d07ee0894bdc3dcac5731a5bf3a7f27a",
+      "size": 2466861
+    },
+    {
+      "path": "assets/audio/bgm/sgs-4.mp3",
+      "md5": "6d6c98b6d83c0110714112c069a61f4b",
+      "size": 769297
+    },
+    {
+      "path": "assets/audio/bgm/ski-umamusume.mp3",
+      "md5": "555ee6c0bcf4e35e05580b997a70e6cb",
+      "size": 2793265
+    },
+    {
+      "path": "assets/audio/bgm/ski.mp3",
+      "md5": "85a3eaa00ef7f2a63c8edaa1d6092d68",
+      "size": 2618140
+    },
+    {
+      "path": "assets/audio/bgm/spartanoue.mp3",
+      "md5": "64562040381612114d062dee074773e7",
+      "size": 1796850
+    },
+    {
+      "path": "assets/audio/bgm/titan.mp3",
+      "md5": "1c34e07c8b3f31149a0e9cc2a6506c43",
+      "size": 3503795
+    },
+    {
+      "path": "assets/audio/bgm/wasted-instrumental.mp3",
+      "md5": "009dceaad6b9f14ffc4502c670ad1e37",
+      "size": 3104226
+    },
+    {
+      "path": "assets/audio/sfx/damage.mp3",
+      "md5": "b9f7562798ff9d46cdb32a0cfce981e1",
+      "size": 17579
+    },
+    {
+      "path": "assets/audio/sfx/equip.mp3",
+      "md5": "91fead006c551ccb4b9bb28049ac02df",
+      "size": 19988
+    },
+    {
+      "path": "assets/audio/sfx/fire-1.mp3",
+      "md5": "8cbfed5a0ee8d24349ac5862a7e03381",
+      "size": 21660
+    },
+    {
+      "path": "assets/audio/sfx/fire-2.mp3",
+      "md5": "fb1939eb6c5e02b01f23d9f1b6eb9f4a",
+      "size": 24168
+    },
+    {
+      "path": "assets/audio/sfx/heal.mp3",
+      "md5": "554b014668c49f9fdd3d2d6f8a9cae22",
+      "size": 35035
+    },
+    {
+      "path": "assets/audio/sfx/lightning.mp3",
+      "md5": "11ea88c97c01fa684df68a02ca706aef",
+      "size": 63697
+    },
+    {
+      "path": "assets/audio/sfx/sha-1.mp3",
+      "md5": "460525735738cfd17866cdb88059d9dc",
+      "size": 9121
+    },
+    {
+      "path": "assets/audio/sfx/sha-2.mp3",
+      "md5": "da1d8d9a22da67e88aef26e67a408cb9",
+      "size": 11629
+    },
+    {
+      "path": "assets/audio/sfx/thunder-1.mp3",
+      "md5": "2247f4f8babe9c5cc5d24ae268314e61",
+      "size": 20406
+    },
+    {
+      "path": "assets/audio/sfx/thunder-2.mp3",
+      "md5": "3789f5f75c50c74b9d8be846682ecfee",
+      "size": 14972
+    },
+    {
+      "path": "assets/audio/voice/bingliang-female.mp3",
+      "md5": "7ed5acea3937a6ca4da5d08c75ef6349",
+      "size": 17354
+    },
+    {
+      "path": "assets/audio/voice/bingliang-male.mp3",
+      "md5": "0c260c24d460ff4d1334b834e2b6a3b4",
+      "size": 18122
+    },
+    {
+      "path": "assets/audio/voice/fire-sha-female.mp3",
+      "md5": "0d1419bffb5f897c22454867a58fbacc",
+      "size": 13706
+    },
+    {
+      "path": "assets/audio/voice/fire-sha-male.mp3",
+      "md5": "1a2f2515e904c53e02226d04c079dbb6",
+      "size": 13706
+    },
+    {
+      "path": "assets/audio/voice/guohe-female.mp3",
+      "md5": "2d913e064b1ba8128c0bc2e2ecb737df",
+      "size": 18316
+    },
+    {
+      "path": "assets/audio/voice/guohe-male.mp3",
+      "md5": "ccce576e22023b9a888e92fb3e418736",
+      "size": 16853
+    },
+    {
+      "path": "assets/audio/voice/huogong-female.mp3",
+      "md5": "f1bc2fd6d396d110e8fb7ca6aac57366",
+      "size": 13898
+    },
+    {
+      "path": "assets/audio/voice/huogong-male.mp3",
+      "md5": "17114bc871b4d7c4725a932d298f8496",
+      "size": 17354
+    },
+    {
+      "path": "assets/audio/voice/jiedao-female.mp3",
+      "md5": "7faa4c4860b39f4036248c6f9882ec25",
+      "size": 18734
+    },
+    {
+      "path": "assets/audio/voice/jiedao-male.mp3",
+      "md5": "ec9df9605311a407965aa08e681acc9a",
+      "size": 18734
+    },
+    {
+      "path": "assets/audio/voice/jiu-female.mp3",
+      "md5": "cdac4abc1c065951f7057114ee4e2203",
+      "size": 13130
+    },
+    {
+      "path": "assets/audio/voice/jiu-male.mp3",
+      "md5": "918b1c4447b9b008132b093156c9e97a",
+      "size": 13706
+    },
+    {
+      "path": "assets/audio/voice/juedou-female.mp3",
+      "md5": "a55d414a5547c9e71ba830e86925de55",
+      "size": 13092
+    },
+    {
+      "path": "assets/audio/voice/juedou-male.mp3",
+      "md5": "5db0ba03dff92f4752778566e84f0bf6",
+      "size": 12362
+    },
+    {
+      "path": "assets/audio/voice/lebu-female.mp3",
+      "md5": "5247831df48df304fb9a35ce4df238c6",
+      "size": 19361
+    },
+    {
+      "path": "assets/audio/voice/lebu-male.mp3",
+      "md5": "7cfa49ec386eb9f84cf93a80f960bdd6",
+      "size": 18316
+    },
+    {
+      "path": "assets/audio/voice/nanman-female.mp3",
+      "md5": "44db6e9208afd496e15aa3211a819ff0",
+      "size": 17898
+    },
+    {
+      "path": "assets/audio/voice/nanman-male.mp3",
+      "md5": "1bcc86c80d25871414c311f692ebde86",
+      "size": 17480
+    },
+    {
+      "path": "assets/audio/voice/sha-female.mp3",
+      "md5": "b8aee5102f7a96f922b5c3384b4628a1",
+      "size": 14137
+    },
+    {
+      "path": "assets/audio/voice/sha-male.mp3",
+      "md5": "3fd6c2862de78a4099678760f1919e21",
+      "size": 12256
+    },
+    {
+      "path": "assets/audio/voice/shan-female.mp3",
+      "md5": "b7d473a2bfc62aa95467824158e3d97e",
+      "size": 15390
+    },
+    {
+      "path": "assets/audio/voice/shan-male.mp3",
+      "md5": "fb1da41c680b4df35b3bb518a2f42c7b",
+      "size": 12256
+    },
+    {
+      "path": "assets/audio/voice/shandian-female.mp3",
+      "md5": "a4a4966309e6bae1ba431f553c452844",
+      "size": 13510
+    },
+    {
+      "path": "assets/audio/voice/shandian-male.mp3",
+      "md5": "1f1536e60621429e10a954958aca3247",
+      "size": 13510
+    },
+    {
+      "path": "assets/audio/voice/shunshou-female.mp3",
+      "md5": "df1628922c98f11013abdfea5857a6da",
+      "size": 18734
+    },
+    {
+      "path": "assets/audio/voice/shunshou-male.mp3",
+      "md5": "268d6e3eb3db52a0d4839adedcbbc389",
+      "size": 17271
+    },
+    {
+      "path": "assets/audio/voice/taoyuan-female.mp3",
+      "md5": "bc3c6c519a479b105f692c4fc0e71806",
+      "size": 18107
+    },
+    {
+      "path": "assets/audio/voice/taoyuan-male.mp3",
+      "md5": "14040d9e154db8ed584561aba700db82",
+      "size": 16853
+    },
+    {
+      "path": "assets/audio/voice/thunder-sha-female.mp3",
+      "md5": "064416a670a633224e63c7b6434c7a8b",
+      "size": 13898
+    },
+    {
+      "path": "assets/audio/voice/thunder-sha-male.mp3",
+      "md5": "52df8364fb3463eac720c6693e71f5f5",
+      "size": 14474
+    },
+    {
+      "path": "assets/audio/voice/tiesuo-female.mp3",
+      "md5": "b8ef571f3ef4112105781a0ad7068870",
+      "size": 18698
+    },
+    {
+      "path": "assets/audio/voice/tiesuo-male.mp3",
+      "md5": "777639bf5a3616f8ac09d82855d3ab25",
+      "size": 18698
+    },
+    {
+      "path": "assets/audio/voice/wanjian-female.mp3",
+      "md5": "ea2e399000f354c3fd18b039d31b02c3",
+      "size": 17898
+    },
+    {
+      "path": "assets/audio/voice/wanjian-male.mp3",
+      "md5": "1658a9292b1d6eb5121daacdf3dc2285",
+      "size": 19779
+    },
+    {
+      "path": "assets/audio/voice/wugu-female.mp3",
+      "md5": "3a34dc4c87a8adffa7d4cdcc6957bdf2",
+      "size": 17480
+    },
+    {
+      "path": "assets/audio/voice/wugu-male.mp3",
+      "md5": "ec1a99e19af4a46a675892eeaf309dcf",
+      "size": 16644
+    },
+    {
+      "path": "assets/audio/voice/wuxie-female.mp3",
+      "md5": "7909e31e47c4ddec4039c3a19002c9e1",
+      "size": 17480
+    },
+    {
+      "path": "assets/audio/voice/wuxie-male.mp3",
+      "md5": "0f4d18150dc6a2d6f8cbeb3c58eff9c4",
+      "size": 18525
+    },
+    {
+      "path": "assets/audio/voice/wuzhong-female.mp3",
+      "md5": "e39e38084060fdc7f56e97ae520d917b",
+      "size": 17689
+    },
+    {
+      "path": "assets/audio/voice/wuzhong-male.mp3",
+      "md5": "7b9f3d1f463ab7524cf4368c3cd61532",
+      "size": 17689
+    },
+    {
+      "path": "assets/config/app-content.json",
+      "md5": "538e7a4cc6124cde8a5f6f86ba55705d",
+      "size": 800
+    },
+    {
+      "path": "assets/config/audio.json",
+      "md5": "9c5ec82eba23212e1196c217de6227d4",
+      "size": 2242
+    },
+    {
+      "path": "assets/config/cards.json",
+      "md5": "432b5f6054b892847c2058e2ad3f93d6",
+      "size": 9178
+    },
+    {
+      "path": "assets/config/characters.json",
+      "md5": "3f846a90afb3dedb0862e5fc30028d2c",
+      "size": 15817
+    },
+    {
+      "path": "assets/config/werewolf-presets.json",
+      "md5": "59e22d9f34a5439336086d1adaedd707",
+      "size": 883
+    },
+    {
+      "path": "assets/config/werewolf-roles.json",
+      "md5": "55112640b082b8d576a61d33e6d9b67b",
+      "size": 884
+    },
+    {
+      "path": "assets/logic/rules.bundle.js",
+      "md5": "2124d3d4be6cbc7d98a37c75e817a245",
+      "size": 73
+    },
+    {
+      "path": "assets/logic/shared/characters.d.ts",
+      "md5": "e6e2cee5142577ec4e01495d86533b99",
+      "size": 457
+    },
+    {
+      "path": "assets/logic/shared/characters.js",
+      "md5": "e7fdd9aab0cb72ce8a3f6f2b2f543bfa",
+      "size": 16379
+    },
+    {
+      "path": "assets/logic/shared/game-data/cards.d.ts",
+      "md5": "5bb91b993e7533bef40b08b805020b0a",
+      "size": 408
+    },
+    {
+      "path": "assets/logic/shared/game-data/cards.js",
+      "md5": "8a73e9792662b7c3f35e12b786c4ce57",
+      "size": 7065
+    },
+    {
+      "path": "assets/logic/shared/index.d.ts",
+      "md5": "5a2a5e7fd70f8a232401ee8ee8127aa6",
+      "size": 158
+    },
+    {
+      "path": "assets/logic/shared/index.js",
+      "md5": "5a2a5e7fd70f8a232401ee8ee8127aa6",
+      "size": 158
+    },
+    {
+      "path": "assets/logic/shared/rules.d.ts",
+      "md5": "052b927f9ecd671acb00a9993b0c9c7c",
+      "size": 806
+    },
+    {
+      "path": "assets/logic/shared/rules.js",
+      "md5": "27804d5ee948cb2d8bde728b875eb041",
+      "size": 176400
+    },
+    {
+      "path": "assets/logic/shared/types.d.ts",
+      "md5": "0de919a22782de9d7c479a5878e046da",
+      "size": 11194
+    },
+    {
+      "path": "assets/logic/shared/types.js",
+      "md5": "9c0e149d1a6b7aaadff396f80db5d91b",
+      "size": 60
+    },
+    {
+      "path": "assets/logic/shared/werewolf.d.ts",
+      "md5": "30b29d21db9b73a0c0a8b66be30f5361",
+      "size": 5415
+    },
+    {
+      "path": "assets/logic/shared/werewolf.js",
+      "md5": "817b1cadf144ac5ea29943f7738a8c1d",
+      "size": 37282
+    },
+    {
+      "path": "assets/ui/battle/role-card/chain.svg",
+      "md5": "ff1a88fe89afd8828823abe791d14bcb",
+      "size": 1077
+    },
+    {
+      "path": "assets/ui/battle/role-card/equip-slot.svg",
+      "md5": "acb03d30bd1e159850a13e0cd10873de",
+      "size": 598
+    },
+    {
+      "path": "assets/ui/battle/role-card/faction-medallion.svg",
+      "md5": "1d66d3fa2995a3cfa984b05541a61555",
+      "size": 903
+    },
+    {
+      "path": "assets/ui/battle/role-card/frame.svg",
+      "md5": "2605ca21065c8dd49ce120e6440a0f59",
+      "size": 3828
+    },
+    {
+      "path": "assets/ui/battle/role-card/hand-badge.svg",
+      "md5": "ebba8118e9cc20f47169439f2fbe5525",
+      "size": 901
+    },
+    {
+      "path": "assets/ui/battle/role-card/hp-empty.svg",
+      "md5": "f703999a7257daa390a4bf176938e9a9",
+      "size": 213
+    },
+    {
+      "path": "assets/ui/battle/role-card/hp-heart.svg",
+      "md5": "6de333fc5e942fe3e3391afef8d07b43",
+      "size": 832
+    },
+    {
+      "path": "assets/ui/battle/role-card/identity-diamond.svg",
+      "md5": "3dccd5f91c94355a208cdde70148d445",
+      "size": 915
+    },
+    {
+      "path": "assets/ui/card-back.png",
+      "md5": "be21dcca64c4c51a1557af545c9488a0",
+      "size": 3259643
+    },
+    {
+      "path": "assets/ui/cards/equipment/bagua.jpg",
+      "md5": "d9590ccae7258d16dc77c93c9a681c08",
+      "size": 70759
+    },
+    {
+      "path": "assets/ui/cards/equipment/baiyin.jpg",
+      "md5": "cf3deb5e6a461c0e968379830c2edde7",
+      "size": 80070
+    },
+    {
+      "path": "assets/ui/cards/equipment/chitu.jpg",
+      "md5": "a2d70d84ac85903239a1d6f6ef515372",
+      "size": 68892
+    },
+    {
+      "path": "assets/ui/cards/equipment/cixiong.jpg",
+      "md5": "f24371d0f84ecaa30d75626821f1b389",
+      "size": 64540
+    },
+    {
+      "path": "assets/ui/cards/equipment/dayuan.jpg",
+      "md5": "f717ab7427b5da2b46079ed9cec683b5",
+      "size": 68134
+    },
+    {
+      "path": "assets/ui/cards/equipment/dilu.jpg",
+      "md5": "94707c93a32dc717de3a9be3f954ab12",
+      "size": 67538
+    },
+    {
+      "path": "assets/ui/cards/equipment/fangtian.jpg",
+      "md5": "b3fce8425c84f209d7d759638d684bf4",
+      "size": 66277
+    },
+    {
+      "path": "assets/ui/cards/equipment/guanshi.jpg",
+      "md5": "cdd7cca25dc155530b5af609338c01b6",
+      "size": 68641
+    },
+    {
+      "path": "assets/ui/cards/equipment/guding.jpg",
+      "md5": "bc87bcf9e072a58fd9ecaee74bd170fb",
+      "size": 63934
+    },
+    {
+      "path": "assets/ui/cards/equipment/hanbing.jpg",
+      "md5": "173106bb4cf52905c53f1f7cb4dd5cc6",
+      "size": 62676
+    },
+    {
+      "path": "assets/ui/cards/equipment/jueying.jpg",
+      "md5": "b3d5680c2f1f1d1a0993c8965ffb0a0d",
+      "size": 66968
+    },
+    {
+      "path": "assets/ui/cards/equipment/qilin.jpg",
+      "md5": "5da05d79251a6958450138c85357fee1",
+      "size": 63988
+    },
+    {
+      "path": "assets/ui/cards/equipment/qinggang.jpg",
+      "md5": "577f25835d8ed7424dc7cfdd2e352bd3",
+      "size": 62047
+    },
+    {
+      "path": "assets/ui/cards/equipment/qinglong.jpg",
+      "md5": "105ecf64e7c9fcbc33ce1602675fe979",
+      "size": 62451
+    },
+    {
+      "path": "assets/ui/cards/equipment/renwang.jpg",
+      "md5": "92525f27725b33821055aec00fac5677",
+      "size": 71374
+    },
+    {
+      "path": "assets/ui/cards/equipment/tengjia.jpg",
+      "md5": "88477c662e45974671ff683384cd0b55",
+      "size": 77103
+    },
+    {
+      "path": "assets/ui/cards/equipment/zhangba.jpg",
+      "md5": "8f0e09eaf8b61cef4bd38ce653a169ba",
+      "size": 63693
+    },
+    {
+      "path": "assets/ui/cards/equipment/zhuahuang.jpg",
+      "md5": "b9b5de991c86341143ab28d576d882bd",
+      "size": 70615
+    },
+    {
+      "path": "assets/ui/cards/equipment/zhuge.jpg",
+      "md5": "f4997f95d1bedc7886ceaf3fbc351fae",
+      "size": 68730
+    },
+    {
+      "path": "assets/ui/cards/equipment/zhuque.jpg",
+      "md5": "9ae0c97b3aac18b23e4c2d21d90c1bae",
+      "size": 69166
+    },
+    {
+      "path": "assets/ui/cards/equipment/zixing.jpg",
+      "md5": "6da7204a732aa3dcf12ae94edd43848c",
+      "size": 68549
+    },
+    {
+      "path": "assets/ui/cards/guohe.jpg",
+      "md5": "13d4b001c2c858d2823d424d8ebde76f",
+      "size": 56423
+    },
+    {
+      "path": "assets/ui/cards/jiu.jpg",
+      "md5": "d965de7c6c37e916ac33f395880dc823",
+      "size": 53248
+    },
+    {
+      "path": "assets/ui/cards/juedou.jpg",
+      "md5": "aaa3f9cd0205d0f187e59ce5d7ab1061",
+      "size": 55028
+    },
+    {
+      "path": "assets/ui/cards/nanman.jpg",
+      "md5": "2009d534b5d8e0bd3a62fe793e56144a",
+      "size": 58279
+    },
+    {
+      "path": "assets/ui/cards/sha.jpg",
+      "md5": "a3f17f5c1fdf359dd9b2016644dacdeb",
+      "size": 60163
+    },
+    {
+      "path": "assets/ui/cards/shan.jpg",
+      "md5": "d8b2d415fdeffd62f4affc298cb68afd",
+      "size": 60335
+    },
+    {
+      "path": "assets/ui/cards/shunshou.jpg",
+      "md5": "9274a17a1eaf0fe6798e79fe7f083439",
+      "size": 52595
+    },
+    {
+      "path": "assets/ui/cards/tao.jpg",
+      "md5": "4fdcf1a140942dc787fbf196af341e9b",
+      "size": 53895
+    },
+    {
+      "path": "assets/ui/cards/taoyuan.jpg",
+      "md5": "eeeec623dee00ee63018a64007f12296",
+      "size": 66573
+    },
+    {
+      "path": "assets/ui/cards/wanjian.jpg",
+      "md5": "2283349fedd1e1a0ed82493a30f35a36",
+      "size": 61405
+    },
+    {
+      "path": "assets/ui/cards/wuxie.jpg",
+      "md5": "bc4e8ec59c3bf0ee74e5f720c5e2c2cf",
+      "size": 61223
+    },
+    {
+      "path": "assets/ui/cards/wuzhong.jpg",
+      "md5": "867251b6be0815193c46f4db348f7825",
+      "size": 58358
+    },
+    {
+      "path": "assets/ui/characters/builtin-bao-taihou.jpg",
+      "md5": "9f3659cc7d94c5481431cc31143d67a8",
+      "size": 41634
+    },
+    {
+      "path": "assets/ui/characters/builtin-deng-gou.jpg",
+      "md5": "8139bd531a3824c12256b64a701870a8",
+      "size": 183609
+    },
+    {
+      "path": "assets/ui/characters/builtin-dorm-supervisor.jpg",
+      "md5": "daef75dc8b0f1b2b9c99f80064297248",
+      "size": 41629
+    },
+    {
+      "path": "assets/ui/characters/builtin-gay-guan.jpg",
+      "md5": "468fa4f0f8507faa436ba405a7d1f110",
+      "size": 136555
+    },
+    {
+      "path": "assets/ui/characters/builtin-haijie-dashen.jpg",
+      "md5": "387073f81898d0c55bd6b544bd0e112a",
+      "size": 191082
+    },
+    {
+      "path": "assets/ui/characters/builtin-hong-xiliang.jpg",
+      "md5": "c51980df731cc4e63aeab458505211c3",
+      "size": 56378
+    },
+    {
+      "path": "assets/ui/characters/builtin-huang-daxian.jpg",
+      "md5": "942070dcce6d3cc3c02b3e617817e9fb",
+      "size": 182204
+    },
+    {
+      "path": "assets/ui/characters/builtin-ju-hui.jpg",
+      "md5": "f7aa7d08f6d12ef1e52f72aee8ff26bc",
+      "size": 149242
+    },
+    {
+      "path": "assets/ui/characters/builtin-medic.jpg",
+      "md5": "0a0a0dfd1717a32baffa267c71c84abd",
+      "size": 48854
+    },
+    {
+      "path": "assets/ui/characters/builtin-sanshui-xiansheng.jpg",
+      "md5": "2441d95ce606ad0b6698eb9787f5bec8",
+      "size": 157308
+    },
+    {
+      "path": "assets/ui/characters/builtin-shen-zhuxi.jpg",
+      "md5": "da2eef7f9252dfa85bbb5591650ce4ef",
+      "size": 189281
+    },
+    {
+      "path": "assets/ui/characters/builtin-tianzhi-jiaozi-shen-laoban.jpg",
+      "md5": "ac422837d20b56387edd0ee95ca6ad77",
+      "size": 55323
+    },
+    {
+      "path": "assets/ui/characters/builtin-vanguard.jpg",
+      "md5": "ab424b6f961e5d51d5aad2331f7a4d45",
+      "size": 47164
+    },
+    {
+      "path": "assets/ui/characters/builtin-warden.jpg",
+      "md5": "c3ab0adca527db309ec914a2d4b0e244",
+      "size": 46553
+    },
+    {
+      "path": "assets/ui/characters/builtin-wu-mao.jpg",
+      "md5": "69e6044204791b8bdeb90ec520bc57f7",
+      "size": 49335
+    },
+    {
+      "path": "assets/ui/characters/builtin-yan-laoban.jpg",
+      "md5": "c5c433eed2450e18087543b0f76a6649",
+      "size": 199339
+    },
+    {
+      "path": "assets/ui/characters/builtin-yangzhi-tao.jpg",
+      "md5": "c9dc9e8f6a1ecfe56acfc71544662a24",
+      "size": 152340
+    },
+    {
+      "path": "assets/ui/characters/cjj.png",
+      "md5": "9ebb54eed8433415d122a577986a5817",
+      "size": 2266982
+    },
+    {
+      "path": "assets/ui/characters/tudou.png",
+      "md5": "6d421b7eb5089c44499031b7dbd1aa16",
+      "size": 2664783
+    },
+    {
+      "path": "assets/ui/characters/yang-haiyan.png",
+      "md5": "5345ffd78131abf5e1189b7f84b391d3",
+      "size": 2418585
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/default/frame-00.png",
+      "md5": "57306731a8b870f25c257fdcb228532e",
+      "size": 2226
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/default/frame-01.png",
+      "md5": "335787e12ba11df846184860825a900a",
+      "size": 2250
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/default/frame-02.png",
+      "md5": "335787e12ba11df846184860825a900a",
+      "size": 2250
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/default/frame-03.png",
+      "md5": "335787e12ba11df846184860825a900a",
+      "size": 2250
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/default/frame-04.png",
+      "md5": "335787e12ba11df846184860825a900a",
+      "size": 2250
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/default/frame-05.png",
+      "md5": "335787e12ba11df846184860825a900a",
+      "size": 2250
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/default/frame-06.png",
+      "md5": "335787e12ba11df846184860825a900a",
+      "size": 2250
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/default/frame-07.png",
+      "md5": "335787e12ba11df846184860825a900a",
+      "size": 2250
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/default/frame-08.png",
+      "md5": "335787e12ba11df846184860825a900a",
+      "size": 2250
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/default/frame-09.png",
+      "md5": "335787e12ba11df846184860825a900a",
+      "size": 2250
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/default/frame-10.png",
+      "md5": "d2e2270a8887373a3f322ca5c4fe06f9",
+      "size": 2381
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/default/frame-11.png",
+      "md5": "1cde5bf583c1f38c109126961c7c1202",
+      "size": 2337
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/default/frame-12.png",
+      "md5": "94b220a2399d91ddd6a1eb27092ade02",
+      "size": 2692
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/default/frame-13.png",
+      "md5": "030d39b792d3214fab0a8e25035fb6fd",
+      "size": 2645
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/default/frame-14.png",
+      "md5": "030d39b792d3214fab0a8e25035fb6fd",
+      "size": 2645
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/default/frame-15.png",
+      "md5": "81582ac782ad9945f4d1965686820fe8",
+      "size": 2830
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/default/frame-16.png",
+      "md5": "ef7f87819821fb021213d48310abc7c5",
+      "size": 2608
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/default/frame-17.png",
+      "md5": "b2c60b5100f7a249a9135c60ee650539",
+      "size": 2299
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/default/frame-18.png",
+      "md5": "ed7c08c9451d29fc4259bc7887e170c1",
+      "size": 1560
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/default/frame-19.png",
+      "md5": "8a4b79f892ff301558c7ec6371aad225",
+      "size": 1307
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/default/frame-20.png",
+      "md5": "6e4195f3551ec654b602cc86f1272ac6",
+      "size": 1333
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/default/frame-21.png",
+      "md5": "6e4195f3551ec654b602cc86f1272ac6",
+      "size": 1333
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/default/frame-22.png",
+      "md5": "6e4195f3551ec654b602cc86f1272ac6",
+      "size": 1333
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/default/frame-23.png",
+      "md5": "6e4195f3551ec654b602cc86f1272ac6",
+      "size": 1333
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/default/frame-24.png",
+      "md5": "6e4195f3551ec654b602cc86f1272ac6",
+      "size": 1333
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/default/frame-25.png",
+      "md5": "6e4195f3551ec654b602cc86f1272ac6",
+      "size": 1333
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/default/frame-26.png",
+      "md5": "6e4195f3551ec654b602cc86f1272ac6",
+      "size": 1333
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/default/frame-27.png",
+      "md5": "6e4195f3551ec654b602cc86f1272ac6",
+      "size": 1333
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/default/frame-28.png",
+      "md5": "6e4195f3551ec654b602cc86f1272ac6",
+      "size": 1333
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/default/frame-29.png",
+      "md5": "6e4195f3551ec654b602cc86f1272ac6",
+      "size": 1333
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/default/frame-30.png",
+      "md5": "6e4195f3551ec654b602cc86f1272ac6",
+      "size": 1333
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/default/frame-31.png",
+      "md5": "6e4195f3551ec654b602cc86f1272ac6",
+      "size": 1333
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/default/frame-32.png",
+      "md5": "6e4195f3551ec654b602cc86f1272ac6",
+      "size": 1333
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/default/frame-33.png",
+      "md5": "8a4b79f892ff301558c7ec6371aad225",
+      "size": 1307
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/default/frame-34.png",
+      "md5": "ed7c08c9451d29fc4259bc7887e170c1",
+      "size": 1560
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/default/frame-35.png",
+      "md5": "b2c60b5100f7a249a9135c60ee650539",
+      "size": 2299
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/default/frame-36.png",
+      "md5": "ef7f87819821fb021213d48310abc7c5",
+      "size": 2608
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/default/frame-37.png",
+      "md5": "1793cee6f4e08a837b98e8396b918211",
+      "size": 2925
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/default/frame-38.png",
+      "md5": "5b25f6bf9c6c9a55c334cef439c322db",
+      "size": 2747
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/default/frame-39.png",
+      "md5": "120d3e6bec0c53e473ac83c601d34c37",
+      "size": 2553
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/default/frame-40.png",
+      "md5": "dd1d3a21a17ce42d994de79ca409fdab",
+      "size": 2347
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/default/frame-41.png",
+      "md5": "e87beede8141daa4cf32d3be2c26e947",
+      "size": 2348
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/default/frame-42.png",
+      "md5": "335787e12ba11df846184860825a900a",
+      "size": 2250
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/default/frame-43.png",
+      "md5": "335787e12ba11df846184860825a900a",
+      "size": 2250
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/default/frame-44.png",
+      "md5": "335787e12ba11df846184860825a900a",
+      "size": 2250
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/default/frame-45.png",
+      "md5": "335787e12ba11df846184860825a900a",
+      "size": 2250
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/default/frame-46.png",
+      "md5": "335787e12ba11df846184860825a900a",
+      "size": 2250
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/default/frame-47.png",
+      "md5": "335787e12ba11df846184860825a900a",
+      "size": 2250
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/not-allowed.png",
+      "md5": "782da7471b55e884332229a42ffc2cc8",
+      "size": 298
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/pointer/frame-00.png",
+      "md5": "b62cd812b73f2b0bcc223301497cf6ca",
+      "size": 2068
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/pointer/frame-01.png",
+      "md5": "1db59acfd6bccf1d531c93541e6b563a",
+      "size": 2059
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/pointer/frame-02.png",
+      "md5": "92d92ad44f625db8d2570756b962989c",
+      "size": 2103
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/pointer/frame-03.png",
+      "md5": "5f225e6ab4ae581fc2f3f0e27a308c51",
+      "size": 2092
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/pointer/frame-04.png",
+      "md5": "6e65daec9a5c278cbad781222c305a5d",
+      "size": 2424
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/pointer/frame-05.png",
+      "md5": "57ce93593c543e03c25aed46fddeee67",
+      "size": 2637
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/pointer/frame-06.png",
+      "md5": "5b896a42904adc4b102b7c6fe852eaa5",
+      "size": 3294
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/pointer/frame-07.png",
+      "md5": "9eee85cdc8e438427929dc1e44af2a20",
+      "size": 3386
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/pointer/frame-08.png",
+      "md5": "24fd2de76ae6c46809b56897bea142e2",
+      "size": 3660
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/pointer/frame-09.png",
+      "md5": "9dc9227838b4dcfa79440a70363fe01b",
+      "size": 3849
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/pointer/frame-10.png",
+      "md5": "3d69684fff327ef6ed02cec69fbabb05",
+      "size": 3837
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/pointer/frame-11.png",
+      "md5": "212c026248fbdcc66eaaae2f2614ad64",
+      "size": 3788
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/pointer/frame-12.png",
+      "md5": "af3cbe22c21c9c4c77cc4e89c375cb47",
+      "size": 3971
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/pointer/frame-13.png",
+      "md5": "b5032986dd309c92c4c898ad81deccf6",
+      "size": 3970
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/pointer/frame-14.png",
+      "md5": "b5032986dd309c92c4c898ad81deccf6",
+      "size": 3970
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/pointer/frame-15.png",
+      "md5": "b5032986dd309c92c4c898ad81deccf6",
+      "size": 3970
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/pointer/frame-16.png",
+      "md5": "b5032986dd309c92c4c898ad81deccf6",
+      "size": 3970
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/pointer/frame-17.png",
+      "md5": "b5032986dd309c92c4c898ad81deccf6",
+      "size": 3970
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/pointer/frame-18.png",
+      "md5": "b5032986dd309c92c4c898ad81deccf6",
+      "size": 3970
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/pointer/frame-19.png",
+      "md5": "b5032986dd309c92c4c898ad81deccf6",
+      "size": 3970
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/pointer/frame-20.png",
+      "md5": "f31820223bb960aa1b04aa2a5d1c71bd",
+      "size": 4127
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/pointer/frame-21.png",
+      "md5": "016153e8070e4218fdda4807c0cca57f",
+      "size": 4172
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/pointer/frame-22.png",
+      "md5": "dc03a51f77a1b43ab1fa3656ab175080",
+      "size": 4566
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/pointer/frame-23.png",
+      "md5": "016153e8070e4218fdda4807c0cca57f",
+      "size": 4172
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/pointer/frame-24.png",
+      "md5": "ba20fccba1b4abe3dd13ed0c42991221",
+      "size": 4215
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/pointer/frame-25.png",
+      "md5": "ba20fccba1b4abe3dd13ed0c42991221",
+      "size": 4215
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/pointer/frame-26.png",
+      "md5": "c9f5cbbacc5f1ea58483bd7d23cb6686",
+      "size": 4421
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/pointer/frame-27.png",
+      "md5": "c9f5cbbacc5f1ea58483bd7d23cb6686",
+      "size": 4421
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/pointer/frame-28.png",
+      "md5": "ba20fccba1b4abe3dd13ed0c42991221",
+      "size": 4215
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/pointer/frame-29.png",
+      "md5": "ba20fccba1b4abe3dd13ed0c42991221",
+      "size": 4215
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/pointer/frame-30.png",
+      "md5": "c9f5cbbacc5f1ea58483bd7d23cb6686",
+      "size": 4421
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/pointer/frame-31.png",
+      "md5": "c9f5cbbacc5f1ea58483bd7d23cb6686",
+      "size": 4421
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/pointer/frame-32.png",
+      "md5": "ba20fccba1b4abe3dd13ed0c42991221",
+      "size": 4215
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/pointer/frame-33.png",
+      "md5": "ba20fccba1b4abe3dd13ed0c42991221",
+      "size": 4215
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/pointer/frame-34.png",
+      "md5": "c9f5cbbacc5f1ea58483bd7d23cb6686",
+      "size": 4421
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/pointer/frame-35.png",
+      "md5": "c9f5cbbacc5f1ea58483bd7d23cb6686",
+      "size": 4421
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/pointer/frame-36.png",
+      "md5": "ba20fccba1b4abe3dd13ed0c42991221",
+      "size": 4215
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/pointer/frame-37.png",
+      "md5": "b5032986dd309c92c4c898ad81deccf6",
+      "size": 3970
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/pointer/frame-38.png",
+      "md5": "20830ac965ca381e596f5a48a9c5710e",
+      "size": 3892
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/pointer/frame-39.png",
+      "md5": "6a9ad5eea2c90c694a4b4dd8c4795170",
+      "size": 3722
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/pointer/frame-40.png",
+      "md5": "d6201fcfbe77523bf875cf51178593b7",
+      "size": 3439
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/pointer/frame-41.png",
+      "md5": "e042b0e050ddd42c705486388b420d66",
+      "size": 3259
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/pointer/frame-42.png",
+      "md5": "1c0b7203846a21d9b2365fb31a6df35a",
+      "size": 2965
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/pointer/frame-43.png",
+      "md5": "85832f8050f68236ccb5a346de52f4d2",
+      "size": 2761
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/pointer/frame-44.png",
+      "md5": "a47debf4b66f79bcb90cdf1e1c3a157c",
+      "size": 2685
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/pointer/frame-45.png",
+      "md5": "a67e9492e83718d77a3cafa987b4448c",
+      "size": 2481
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/pointer/frame-46.png",
+      "md5": "47be5fc10eda84a27d921dcdfbd099ff",
+      "size": 2230
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/pointer/frame-47.png",
+      "md5": "c48f59ca2f6038faf6896edcb0a9d0db",
+      "size": 2102
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/text/frame-00.png",
+      "md5": "3cdc2b24439aa405aecf6eb87d97bb59",
+      "size": 1158
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/text/frame-01.png",
+      "md5": "77a7a41c156de4e2025233dee1b8f88b",
+      "size": 1606
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/text/frame-02.png",
+      "md5": "a51e52de37a469e045cafe963d7c7dbf",
+      "size": 1608
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/text/frame-03.png",
+      "md5": "faa118b8e53ff8f2ee0fe05d09987875",
+      "size": 1689
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/text/frame-04.png",
+      "md5": "86f11632dfeb9a0ce8e3737b17ce9714",
+      "size": 1404
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/text/frame-05.png",
+      "md5": "79d357c6d1419f22973a2eb785222905",
+      "size": 1536
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/text/frame-06.png",
+      "md5": "b608cb70001a9a877918b1de6163b6c1",
+      "size": 1701
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/text/frame-07.png",
+      "md5": "5c470678fe67a082922990ddfd1c7254",
+      "size": 1856
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/text/frame-08.png",
+      "md5": "f09d4affee3c206646afe94d19413478",
+      "size": 1903
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/text/frame-09.png",
+      "md5": "f18ffc95646b7adf8e60bade8a993c1a",
+      "size": 1971
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/text/frame-10.png",
+      "md5": "9199b5b8fa1b6f0ec05feb8fb62b4542",
+      "size": 2310
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/text/frame-11.png",
+      "md5": "46060e1966ad8a848584feb302d40269",
+      "size": 2449
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/text/frame-12.png",
+      "md5": "c21252b6551c74caef43fc30ed6bf709",
+      "size": 2382
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/text/frame-13.png",
+      "md5": "fa4cde95457fa3439e7e930a2675878b",
+      "size": 2588
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/text/frame-14.png",
+      "md5": "fa4cde95457fa3439e7e930a2675878b",
+      "size": 2588
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/text/frame-15.png",
+      "md5": "fa4cde95457fa3439e7e930a2675878b",
+      "size": 2588
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/text/frame-16.png",
+      "md5": "fa4cde95457fa3439e7e930a2675878b",
+      "size": 2588
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/text/frame-17.png",
+      "md5": "95ec256c6ce8e5b33f465d6211cf0204",
+      "size": 2664
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/text/frame-18.png",
+      "md5": "6bdb9b9cc263dbfd34789d3ee336e0a1",
+      "size": 2716
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/text/frame-19.png",
+      "md5": "6bdb9b9cc263dbfd34789d3ee336e0a1",
+      "size": 2716
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/text/frame-20.png",
+      "md5": "6bdb9b9cc263dbfd34789d3ee336e0a1",
+      "size": 2716
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/text/frame-21.png",
+      "md5": "95ec256c6ce8e5b33f465d6211cf0204",
+      "size": 2664
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/text/frame-22.png",
+      "md5": "a137398fb630d9a0d09e275e831f88e8",
+      "size": 2607
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/text/frame-23.png",
+      "md5": "8a040111d42cb1c1f7d5909e4b1cb974",
+      "size": 2617
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/text/frame-24.png",
+      "md5": "c0f23ed5d11e788aa3afde399daa6312",
+      "size": 2657
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/text/frame-25.png",
+      "md5": "ab0c41831f1252e216042e47bb236a16",
+      "size": 2667
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/text/frame-26.png",
+      "md5": "8df37f7ea5e4c24a33d5eb697187023f",
+      "size": 2652
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/text/frame-27.png",
+      "md5": "7f95fd6d7a9212f665ee737b980c33fd",
+      "size": 2593
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/text/frame-28.png",
+      "md5": "24263130b9d35df5df5f4aee81ced089",
+      "size": 2902
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/text/frame-29.png",
+      "md5": "e7c9c7c13fa4b92caf0375129ffe0e2c",
+      "size": 2651
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/text/frame-30.png",
+      "md5": "9c1e317f2f187a02832368ad1b6542e9",
+      "size": 2375
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/text/frame-31.png",
+      "md5": "9c2d5edc061bb96a8c8202b8fe7b4f03",
+      "size": 2158
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/text/frame-32.png",
+      "md5": "ce90b2a64185a1059bdffe3aff15e041",
+      "size": 1917
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/text/frame-33.png",
+      "md5": "43d7325a7bb23e8be3b2e167026aa7ff",
+      "size": 1643
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/text/frame-34.png",
+      "md5": "036e1c70d53ba3cdc59b4c706d7609ad",
+      "size": 1504
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/text/frame-35.png",
+      "md5": "16653b0348f88d0bd436aa014632c81b",
+      "size": 1434
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/text/frame-36.png",
+      "md5": "59bb6b7c8819c5f43f79ebd65fe8dc3d",
+      "size": 1283
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/text/frame-37.png",
+      "md5": "0088c4d7b8fc9d355efb1d25040d43cf",
+      "size": 1215
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/text/frame-38.png",
+      "md5": "0088c4d7b8fc9d355efb1d25040d43cf",
+      "size": 1215
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/text/frame-39.png",
+      "md5": "0088c4d7b8fc9d355efb1d25040d43cf",
+      "size": 1215
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/text/frame-40.png",
+      "md5": "0088c4d7b8fc9d355efb1d25040d43cf",
+      "size": 1215
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/text/frame-41.png",
+      "md5": "0088c4d7b8fc9d355efb1d25040d43cf",
+      "size": 1215
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/text/frame-42.png",
+      "md5": "0088c4d7b8fc9d355efb1d25040d43cf",
+      "size": 1215
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/text/frame-43.png",
+      "md5": "0088c4d7b8fc9d355efb1d25040d43cf",
+      "size": 1215
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/text/frame-44.png",
+      "md5": "0088c4d7b8fc9d355efb1d25040d43cf",
+      "size": 1215
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/text/frame-45.png",
+      "md5": "0088c4d7b8fc9d355efb1d25040d43cf",
+      "size": 1215
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/text/frame-46.png",
+      "md5": "0088c4d7b8fc9d355efb1d25040d43cf",
+      "size": 1215
+    },
+    {
+      "path": "assets/ui/cursors/classicPointer/png/text/frame-47.png",
+      "md5": "0088c4d7b8fc9d355efb1d25040d43cf",
+      "size": 1215
+    },
+    {
+      "path": "assets/ui/cursors/cursor-manifest.json",
+      "md5": "39643971c0e75cdd21e208c69163431d",
+      "size": 72520
+    },
+    {
+      "path": "assets/ui/cursors/firefly/png/default/frame-00.png",
+      "md5": "0c20cc196836cf04af4715d2ee0bb96e",
+      "size": 1991
+    },
+    {
+      "path": "assets/ui/cursors/firefly/png/default/frame-01.png",
+      "md5": "ed5b8b72958c9a227985db0d9f906095",
+      "size": 1873
+    },
+    {
+      "path": "assets/ui/cursors/firefly/png/default/frame-02.png",
+      "md5": "fd7a339488121ce1dbc1eed19aa70dbd",
+      "size": 1892
+    },
+    {
+      "path": "assets/ui/cursors/firefly/png/default/frame-03.png",
+      "md5": "2746f8c7d208645adb639843b4a9467f",
+      "size": 1870
+    },
+    {
+      "path": "assets/ui/cursors/firefly/png/default/frame-04.png",
+      "md5": "aecc32c5e8602643fc4dd5187cdc42d2",
+      "size": 1870
+    },
+    {
+      "path": "assets/ui/cursors/firefly/png/default/frame-05.png",
+      "md5": "ae7683b1d8bdc5eef9f9eff0c9c3fa36",
+      "size": 1957
+    },
+    {
+      "path": "assets/ui/cursors/firefly/png/default/frame-06.png",
+      "md5": "0c20cc196836cf04af4715d2ee0bb96e",
+      "size": 1991
+    },
+    {
+      "path": "assets/ui/cursors/firefly/png/default/frame-07.png",
+      "md5": "ed5b8b72958c9a227985db0d9f906095",
+      "size": 1873
+    },
+    {
+      "path": "assets/ui/cursors/firefly/png/default/frame-08.png",
+      "md5": "67cc0de2e3eca33591493901f60e291b",
+      "size": 1931
+    },
+    {
+      "path": "assets/ui/cursors/firefly/png/default/frame-09.png",
+      "md5": "7c4cf8e757125cb959ca98541aa6078f",
+      "size": 1941
+    },
+    {
+      "path": "assets/ui/cursors/firefly/png/default/frame-10.png",
+      "md5": "09b733691b65d37fe741450ea70d4b65",
+      "size": 1942
+    },
+    {
+      "path": "assets/ui/cursors/firefly/png/default/frame-11.png",
+      "md5": "13177795c9a2a6716c0d2dcd91637a2d",
+      "size": 1991
+    },
+    {
+      "path": "assets/ui/cursors/firefly/png/not-allowed/frame-00.png",
+      "md5": "573dcb01acd57d0e05063d853fc22671",
+      "size": 1415
+    },
+    {
+      "path": "assets/ui/cursors/firefly/png/not-allowed/frame-01.png",
+      "md5": "f7b3e97cf1392d4b329f9ba625494e23",
+      "size": 1411
+    },
+    {
+      "path": "assets/ui/cursors/firefly/png/not-allowed/frame-02.png",
+      "md5": "da6145d4465f8b8a7eca43844ee4f907",
+      "size": 1419
+    },
+    {
+      "path": "assets/ui/cursors/firefly/png/not-allowed/frame-03.png",
+      "md5": "0d65e33c746c6767d2663e4550f623f9",
+      "size": 1441
+    },
+    {
+      "path": "assets/ui/cursors/firefly/png/not-allowed/frame-04.png",
+      "md5": "24b43f751d1c6f8b9d70c25216b83d09",
+      "size": 1422
+    },
+    {
+      "path": "assets/ui/cursors/firefly/png/not-allowed/frame-05.png",
+      "md5": "6a1a25ae6b61e89cada7eb3715fb138d",
+      "size": 1415
+    },
+    {
+      "path": "assets/ui/cursors/firefly/png/not-allowed/frame-06.png",
+      "md5": "573dcb01acd57d0e05063d853fc22671",
+      "size": 1415
+    },
+    {
+      "path": "assets/ui/cursors/firefly/png/not-allowed/frame-07.png",
+      "md5": "f7b3e97cf1392d4b329f9ba625494e23",
+      "size": 1411
+    },
+    {
+      "path": "assets/ui/cursors/firefly/png/not-allowed/frame-08.png",
+      "md5": "da6145d4465f8b8a7eca43844ee4f907",
+      "size": 1419
+    },
+    {
+      "path": "assets/ui/cursors/firefly/png/not-allowed/frame-09.png",
+      "md5": "0d65e33c746c6767d2663e4550f623f9",
+      "size": 1441
+    },
+    {
+      "path": "assets/ui/cursors/firefly/png/not-allowed/frame-10.png",
+      "md5": "24b43f751d1c6f8b9d70c25216b83d09",
+      "size": 1422
+    },
+    {
+      "path": "assets/ui/cursors/firefly/png/not-allowed/frame-11.png",
+      "md5": "6a1a25ae6b61e89cada7eb3715fb138d",
+      "size": 1415
+    },
+    {
+      "path": "assets/ui/cursors/firefly/png/pointer/frame-00.png",
+      "md5": "25dc38fbdcd33b572148935065d9242d",
+      "size": 1845
+    },
+    {
+      "path": "assets/ui/cursors/firefly/png/pointer/frame-01.png",
+      "md5": "c53f1c348e939396e3252867cee9e2f2",
+      "size": 1737
+    },
+    {
+      "path": "assets/ui/cursors/firefly/png/pointer/frame-02.png",
+      "md5": "d8af687a9ca1ae21da236ecd3dc5ef69",
+      "size": 1740
+    },
+    {
+      "path": "assets/ui/cursors/firefly/png/pointer/frame-03.png",
+      "md5": "bb23e12ed3fc95a820abf202d671ca5c",
+      "size": 1709
+    },
+    {
+      "path": "assets/ui/cursors/firefly/png/pointer/frame-04.png",
+      "md5": "cbe01a497fabba44f86e7e4d93f5c856",
+      "size": 1775
+    },
+    {
+      "path": "assets/ui/cursors/firefly/png/pointer/frame-05.png",
+      "md5": "e625d59b437f4ab6e8bb322422c47509",
+      "size": 1806
+    },
+    {
+      "path": "assets/ui/cursors/firefly/png/pointer/frame-06.png",
+      "md5": "7a9343d1362f7e47c304befaa0410776",
+      "size": 1832
+    },
+    {
+      "path": "assets/ui/cursors/firefly/png/pointer/frame-07.png",
+      "md5": "69d6490e45dae4a88d7f02b14e7032b3",
+      "size": 1753
+    },
+    {
+      "path": "assets/ui/cursors/firefly/png/pointer/frame-08.png",
+      "md5": "2cacd83bdd15c78ebde21f05ce01a110",
+      "size": 1735
+    },
+    {
+      "path": "assets/ui/cursors/firefly/png/pointer/frame-09.png",
+      "md5": "f119f48f88532c5016bf3c73c5e7a889",
+      "size": 1714
+    },
+    {
+      "path": "assets/ui/cursors/firefly/png/pointer/frame-10.png",
+      "md5": "b7fb22ff2dc84a9cfb37b7d48f34837f",
+      "size": 1797
+    },
+    {
+      "path": "assets/ui/cursors/firefly/png/pointer/frame-11.png",
+      "md5": "84ada052b07c83b58e028564b20ee827",
+      "size": 1824
+    },
+    {
+      "path": "assets/ui/cursors/firefly/png/text/frame-00.png",
+      "md5": "f39d4b3e7d335de6e950dcf4eabe0964",
+      "size": 1857
+    },
+    {
+      "path": "assets/ui/cursors/firefly/png/text/frame-01.png",
+      "md5": "1c016f0bb81708ff55b911ece7dfab2c",
+      "size": 1804
+    },
+    {
+      "path": "assets/ui/cursors/firefly/png/text/frame-02.png",
+      "md5": "4dddec0aa5e7ea8741416083008f8bdb",
+      "size": 1722
+    },
+    {
+      "path": "assets/ui/cursors/firefly/png/text/frame-03.png",
+      "md5": "5dbead98e716cbfe45c746ae0f1af638",
+      "size": 1625
+    },
+    {
+      "path": "assets/ui/cursors/firefly/png/text/frame-04.png",
+      "md5": "76e525f31aba8edec79f01f6e4e8b5eb",
+      "size": 1641
+    },
+    {
+      "path": "assets/ui/cursors/firefly/png/text/frame-05.png",
+      "md5": "06bb6b981391e1520ff1e4b9cf1f790c",
+      "size": 1787
+    },
+    {
+      "path": "assets/ui/cursors/firefly/png/text/frame-06.png",
+      "md5": "de7eb2f0b3b07b836a809d9bb471c3dc",
+      "size": 1827
+    },
+    {
+      "path": "assets/ui/cursors/firefly/png/text/frame-07.png",
+      "md5": "312941e4d87e4f51da319ca746dacd38",
+      "size": 1796
+    },
+    {
+      "path": "assets/ui/cursors/firefly/png/text/frame-08.png",
+      "md5": "543aeccad0a5740d65ff284bbff8eecc",
+      "size": 1798
+    },
+    {
+      "path": "assets/ui/cursors/firefly/png/text/frame-09.png",
+      "md5": "b452e2115b55f50b42be51a1e73643e2",
+      "size": 1756
+    },
+    {
+      "path": "assets/ui/cursors/firefly/png/text/frame-10.png",
+      "md5": "30186a8f79b3423718ecc3f0a982b69a",
+      "size": 1807
+    },
+    {
+      "path": "assets/ui/cursors/firefly/png/text/frame-11.png",
+      "md5": "e73c9aef71a0d388b9405cae6a44b43c",
+      "size": 1840
+    },
+    {
+      "path": "assets/ui/cursors/luoxiaohei/default.ani",
+      "md5": "0a17352068d4141a643fddc5e3492df8",
+      "size": 4867536
+    },
+    {
+      "path": "assets/ui/cursors/luoxiaohei/not-allowed.cur",
+      "md5": "854f6b417b096c3664f1baac7ecedc8d",
+      "size": 270398
+    },
+    {
+      "path": "assets/ui/cursors/luoxiaohei/png/default/frame-00.png",
+      "md5": "df136796b4e9dff139cd05d7668f4722",
+      "size": 17145
+    },
+    {
+      "path": "assets/ui/cursors/luoxiaohei/png/default/frame-01.png",
+      "md5": "9b869d62350592180c8797d04cbd6845",
+      "size": 17322
+    },
+    {
+      "path": "assets/ui/cursors/luoxiaohei/png/default/frame-02.png",
+      "md5": "ea8ac5e5f249e7a8e3de78bff595e9f0",
+      "size": 17345
+    },
+    {
+      "path": "assets/ui/cursors/luoxiaohei/png/default/frame-03.png",
+      "md5": "cc830855d51a07bf3a0a0a7110bed8e9",
+      "size": 17680
+    },
+    {
+      "path": "assets/ui/cursors/luoxiaohei/png/default/frame-04.png",
+      "md5": "a0967d251a70316abc2cceb4d0049b48",
+      "size": 17623
+    },
+    {
+      "path": "assets/ui/cursors/luoxiaohei/png/default/frame-05.png",
+      "md5": "e8c9405b2674d720ef828b345365d3fd",
+      "size": 17924
+    },
+    {
+      "path": "assets/ui/cursors/luoxiaohei/png/default/frame-06.png",
+      "md5": "0aa23b953cbe12cd711518647ff2b943",
+      "size": 17871
+    },
+    {
+      "path": "assets/ui/cursors/luoxiaohei/png/default/frame-07.png",
+      "md5": "decb2027cceea1b21f901f496c43f3f2",
+      "size": 17814
+    },
+    {
+      "path": "assets/ui/cursors/luoxiaohei/png/default/frame-08.png",
+      "md5": "3c66c7bd581f2ac02a6fee79891d3649",
+      "size": 16991
+    },
+    {
+      "path": "assets/ui/cursors/luoxiaohei/png/default/frame-09.png",
+      "md5": "2aed3047cc7ed89ab40b7c1ab3433f8f",
+      "size": 16488
+    },
+    {
+      "path": "assets/ui/cursors/luoxiaohei/png/default/frame-10.png",
+      "md5": "a4c17165a7fe8493b28a04529964ec12",
+      "size": 15862
+    },
+    {
+      "path": "assets/ui/cursors/luoxiaohei/png/default/frame-11.png",
+      "md5": "27ea887ab5c4418e3a54832c6de152df",
+      "size": 14601
+    },
+    {
+      "path": "assets/ui/cursors/luoxiaohei/png/default/frame-12.png",
+      "md5": "bf3d5f87c407d152af731191a9fedd14",
+      "size": 17678
+    },
+    {
+      "path": "assets/ui/cursors/luoxiaohei/png/default/frame-13.png",
+      "md5": "a0967d251a70316abc2cceb4d0049b48",
+      "size": 17623
+    },
+    {
+      "path": "assets/ui/cursors/luoxiaohei/png/default/frame-14.png",
+      "md5": "e8c9405b2674d720ef828b345365d3fd",
+      "size": 17924
+    },
+    {
+      "path": "assets/ui/cursors/luoxiaohei/png/default/frame-15.png",
+      "md5": "0aa23b953cbe12cd711518647ff2b943",
+      "size": 17871
+    },
+    {
+      "path": "assets/ui/cursors/luoxiaohei/png/default/frame-16.png",
+      "md5": "decb2027cceea1b21f901f496c43f3f2",
+      "size": 17814
+    },
+    {
+      "path": "assets/ui/cursors/luoxiaohei/png/default/frame-17.png",
+      "md5": "3c66c7bd581f2ac02a6fee79891d3649",
+      "size": 16991
+    },
+    {
+      "path": "assets/ui/cursors/luoxiaohei/png/not-allowed.png",
+      "md5": "f7792523b47d30ee4b5b0ba21c2b2b30",
+      "size": 20924
+    },
+    {
+      "path": "assets/ui/cursors/luoxiaohei/png/pointer.png",
+      "md5": "99a779cdd28ac9656801503d1017101c",
+      "size": 17582
+    },
+    {
+      "path": "assets/ui/cursors/luoxiaohei/png/text.png",
+      "md5": "3f885db10692c6a7942c1eb8cf95e35e",
+      "size": 3225
+    },
+    {
+      "path": "assets/ui/cursors/luoxiaohei/pointer.cur",
+      "md5": "7399b094da8154a47cf3bfeb1ad24bc0",
+      "size": 270398
+    },
+    {
+      "path": "assets/ui/cursors/luoxiaohei/text.cur",
+      "md5": "88a06ab46e55f5d22a3a2f028a6256c4",
+      "size": 270398
+    },
+    {
+      "path": "assets/ui/cursors/silksong/default.cur",
+      "md5": "9b9b238045c34df8282c97455ae458e6",
+      "size": 38078
+    },
+    {
+      "path": "assets/ui/cursors/silksong/not-allowed.cur",
+      "md5": "ddbd4d25a1ae565532266ecbaeb13704",
+      "size": 38078
+    },
+    {
+      "path": "assets/ui/cursors/silksong/png/default.png",
+      "md5": "0cd42f7ec15cde9dd90a2e29db9ae6b7",
+      "size": 8621
+    },
+    {
+      "path": "assets/ui/cursors/silksong/png/not-allowed.png",
+      "md5": "22aed9d1c10a1a36484fd9afdca81dbc",
+      "size": 14298
+    },
+    {
+      "path": "assets/ui/cursors/silksong/png/pointer.png",
+      "md5": "b2ab2d0ae34b9c01df1f94c962e4dd06",
+      "size": 7700
+    },
+    {
+      "path": "assets/ui/cursors/silksong/png/text.png",
+      "md5": "6fa278fa58b6a9887f52aae1f67ebd25",
+      "size": 1953
+    },
+    {
+      "path": "assets/ui/cursors/silksong/pointer.cur",
+      "md5": "0289381d8a606eeada8518907639dffb",
+      "size": 38078
+    },
+    {
+      "path": "assets/ui/cursors/silksong/text.cur",
+      "md5": "d5d67bf425b2a356ec885181ca44b587",
+      "size": 38078
+    },
+    {
+      "path": "assets/ui/cursors/silverwolf/png/default/frame-00.png",
+      "md5": "0c4b8fd0b77c26efb1b0cdd1ba80eb80",
+      "size": 2436
+    },
+    {
+      "path": "assets/ui/cursors/silverwolf/png/default/frame-01.png",
+      "md5": "b44434e1b20d5018818ba608b1683da5",
+      "size": 2419
+    },
+    {
+      "path": "assets/ui/cursors/silverwolf/png/default/frame-02.png",
+      "md5": "24c32a6617e8e57cf788e409b6ce0f40",
+      "size": 2397
+    },
+    {
+      "path": "assets/ui/cursors/silverwolf/png/default/frame-03.png",
+      "md5": "b44434e1b20d5018818ba608b1683da5",
+      "size": 2419
+    },
+    {
+      "path": "assets/ui/cursors/silverwolf/png/default/frame-04.png",
+      "md5": "0c4b8fd0b77c26efb1b0cdd1ba80eb80",
+      "size": 2436
+    },
+    {
+      "path": "assets/ui/cursors/silverwolf/png/default/frame-05.png",
+      "md5": "0c4b8fd0b77c26efb1b0cdd1ba80eb80",
+      "size": 2436
+    },
+    {
+      "path": "assets/ui/cursors/silverwolf/png/default/frame-06.png",
+      "md5": "0c4b8fd0b77c26efb1b0cdd1ba80eb80",
+      "size": 2436
+    },
+    {
+      "path": "assets/ui/cursors/silverwolf/png/default/frame-07.png",
+      "md5": "0c4b8fd0b77c26efb1b0cdd1ba80eb80",
+      "size": 2436
+    },
+    {
+      "path": "assets/ui/cursors/silverwolf/png/default/frame-08.png",
+      "md5": "0c4b8fd0b77c26efb1b0cdd1ba80eb80",
+      "size": 2436
+    },
+    {
+      "path": "assets/ui/cursors/silverwolf/png/default/frame-09.png",
+      "md5": "0c4b8fd0b77c26efb1b0cdd1ba80eb80",
+      "size": 2436
+    },
+    {
+      "path": "assets/ui/cursors/silverwolf/png/default/frame-10.png",
+      "md5": "0c4b8fd0b77c26efb1b0cdd1ba80eb80",
+      "size": 2436
+    },
+    {
+      "path": "assets/ui/cursors/silverwolf/png/default/frame-11.png",
+      "md5": "0c4b8fd0b77c26efb1b0cdd1ba80eb80",
+      "size": 2436
+    },
+    {
+      "path": "assets/ui/cursors/silverwolf/png/default/frame-12.png",
+      "md5": "0c4b8fd0b77c26efb1b0cdd1ba80eb80",
+      "size": 2436
+    },
+    {
+      "path": "assets/ui/cursors/silverwolf/png/default/frame-13.png",
+      "md5": "0c4b8fd0b77c26efb1b0cdd1ba80eb80",
+      "size": 2436
+    },
+    {
+      "path": "assets/ui/cursors/silverwolf/png/default/frame-14.png",
+      "md5": "0c4b8fd0b77c26efb1b0cdd1ba80eb80",
+      "size": 2436
+    },
+    {
+      "path": "assets/ui/cursors/silverwolf/png/default/frame-15.png",
+      "md5": "0c4b8fd0b77c26efb1b0cdd1ba80eb80",
+      "size": 2436
+    },
+    {
+      "path": "assets/ui/cursors/silverwolf/png/default/frame-16.png",
+      "md5": "0c4b8fd0b77c26efb1b0cdd1ba80eb80",
+      "size": 2436
+    },
+    {
+      "path": "assets/ui/cursors/silverwolf/png/default/frame-17.png",
+      "md5": "0c4b8fd0b77c26efb1b0cdd1ba80eb80",
+      "size": 2436
+    },
+    {
+      "path": "assets/ui/cursors/silverwolf/png/default/frame-18.png",
+      "md5": "0c4b8fd0b77c26efb1b0cdd1ba80eb80",
+      "size": 2436
+    },
+    {
+      "path": "assets/ui/cursors/silverwolf/png/default/frame-19.png",
+      "md5": "0c4b8fd0b77c26efb1b0cdd1ba80eb80",
+      "size": 2436
+    },
+    {
+      "path": "assets/ui/cursors/silverwolf/png/not-allowed/frame-00.png",
+      "md5": "5f68c8d0855e791fb050ceac64097c67",
+      "size": 2706
+    },
+    {
+      "path": "assets/ui/cursors/silverwolf/png/not-allowed/frame-01.png",
+      "md5": "60989d1b7207c160e1915dc9b85b8ed3",
+      "size": 2726
+    },
+    {
+      "path": "assets/ui/cursors/silverwolf/png/pointer/frame-00.png",
+      "md5": "480a6ab636ec0aa3976ccc45ab8a2977",
+      "size": 2497
+    },
+    {
+      "path": "assets/ui/cursors/silverwolf/png/pointer/frame-01.png",
+      "md5": "fa812a7fce90e8a3e3f6b87416b0950b",
+      "size": 2490
+    },
+    {
+      "path": "assets/ui/cursors/silverwolf/png/pointer/frame-02.png",
+      "md5": "329f21988fab8cb14ac023a9c249a7f9",
+      "size": 2386
+    },
+    {
+      "path": "assets/ui/cursors/silverwolf/png/pointer/frame-03.png",
+      "md5": "614293e38c9af801562f9e7b2fd1a9f8",
+      "size": 2479
+    },
+    {
+      "path": "assets/ui/cursors/silverwolf/png/pointer/frame-04.png",
+      "md5": "77f1cb0ed160d2c1c9f9babda90ab328",
+      "size": 2496
+    },
+    {
+      "path": "assets/ui/cursors/silverwolf/png/pointer/frame-05.png",
+      "md5": "5f53006822d695ae322a53dc1ad836e6",
+      "size": 2375
+    },
+    {
+      "path": "assets/ui/cursors/silverwolf/png/text/frame-00.png",
+      "md5": "b5d1117092f47ec4084f55a6a33cb3f8",
+      "size": 753
+    },
+    {
+      "path": "assets/ui/cursors/silverwolf/png/text/frame-01.png",
+      "md5": "14350b1e41b8218fefa7d23d30d57bf0",
+      "size": 822
+    },
+    {
+      "path": "assets/ui/cursors/silverwolf/png/text/frame-02.png",
+      "md5": "d3cbbfa3920c4fff4a6d63eb5145d25b",
+      "size": 1042
+    },
+    {
+      "path": "assets/ui/cursors/silverwolf/png/text/frame-03.png",
+      "md5": "b9b0a3b1c795425b2484fedab639a0b2",
+      "size": 1325
+    },
+    {
+      "path": "assets/ui/cursors/silverwolf/png/text/frame-04.png",
+      "md5": "c07671c46eddd1cbafab9b54dcac56cf",
+      "size": 1530
+    },
+    {
+      "path": "assets/ui/cursors/silverwolf/png/text/frame-05.png",
+      "md5": "e4dd57a5e5d5112aa89d379c4adb2c64",
+      "size": 1778
+    },
+    {
+      "path": "assets/ui/cursors/silverwolf/png/text/frame-06.png",
+      "md5": "2367f9b38cdc4f08269f9f4e9004b966",
+      "size": 2056
+    },
+    {
+      "path": "assets/ui/cursors/silverwolf/png/text/frame-07.png",
+      "md5": "2367f9b38cdc4f08269f9f4e9004b966",
+      "size": 2056
+    },
+    {
+      "path": "assets/ui/cursors/silverwolf/png/text/frame-08.png",
+      "md5": "5670172e72d011193593f2df82d53fd6",
+      "size": 2072
+    },
+    {
+      "path": "assets/ui/cursors/silverwolf/png/text/frame-09.png",
+      "md5": "17ebc06cfaaceda5f9f4ec668c424a3a",
+      "size": 2077
+    },
+    {
+      "path": "assets/ui/cursors/silverwolf/png/text/frame-10.png",
+      "md5": "38a958cd4c65c90098714ae0b44bd77e",
+      "size": 2079
+    },
+    {
+      "path": "assets/ui/cursors/silverwolf/png/text/frame-11.png",
+      "md5": "88a537916c5b96a3f3980cfee130b8e2",
+      "size": 2151
+    },
+    {
+      "path": "assets/ui/cursors/silverwolf/png/text/frame-12.png",
+      "md5": "84e5a0f919f114196d6b1e9cf610ec0d",
+      "size": 2044
+    },
+    {
+      "path": "assets/ui/cursors/silverwolf/png/text/frame-13.png",
+      "md5": "fd32f01af720f355c46465e1f1614ee0",
+      "size": 910
+    },
+    {
+      "path": "assets/ui/cursors/silverwolf/png/text/frame-14.png",
+      "md5": "01e044b7e129a54094d23a2c18ec8d5c",
+      "size": 849
+    },
+    {
+      "path": "assets/ui/cursors/silverwolf/png/text/frame-15.png",
+      "md5": "0866d8ee6764ff513fb7a43c66bbce8d",
+      "size": 916
+    },
+    {
+      "path": "assets/ui/cursors/silverwolf/png/text/frame-16.png",
+      "md5": "a5a2f0be84619838f94c13cd454a4d55",
+      "size": 918
+    },
+    {
+      "path": "assets/ui/cursors/silverwolf/png/text/frame-17.png",
+      "md5": "97733a76c210831d61bee6361b1c45b6",
+      "size": 901
+    },
+    {
+      "path": "assets/ui/cursors/silverwolf/png/text/frame-18.png",
+      "md5": "e567a9b3adf70b8e0d4c7f8f7879a3f7",
+      "size": 896
+    },
+    {
+      "path": "assets/ui/cursors/silverwolf/png/text/frame-19.png",
+      "md5": "211910b9222dfb23db37a965ec2d0d28",
+      "size": 873
+    },
+    {
+      "path": "assets/ui/cursors/silverwolf/png/text/frame-20.png",
+      "md5": "ceac6bb3347f66a1b7202225fa956489",
+      "size": 834
+    },
+    {
+      "path": "assets/ui/cursors/silverwolf/png/text/frame-21.png",
+      "md5": "b5d1117092f47ec4084f55a6a33cb3f8",
+      "size": 753
+    },
+    {
+      "path": "assets/ui/cursors/silverwolf/png/text/frame-22.png",
+      "md5": "b5d1117092f47ec4084f55a6a33cb3f8",
+      "size": 753
+    },
+    {
+      "path": "assets/ui/cursors/THIRD_PARTY.md",
+      "md5": "2cd80ecdfa2ea1d7ee22a84ff0f115b2",
+      "size": 467
+    },
+    {
+      "path": "assets/ui/default-avatars.png",
+      "md5": "d97da3cc2a3084280309209c945bd17d",
+      "size": 2727674
+    },
+    {
+      "path": "assets/ui/lobby/lobby-bg-ink-copper.jpg",
+      "md5": "dc6702086b8ce3df1ebf16bf9c3ebbda",
+      "size": 204581
+    },
+    {
+      "path": "assets/ui/lobby/lobby-loop.mp4",
+      "md5": "167616b58595bdc5c8b78640d4291136",
+      "size": 558602
+    },
+    {
+      "path": "assets/ui/maoyi-card-arts.png",
+      "md5": "f576a930d616b104465edde23ed1db7c",
+      "size": 2903177
+    },
+    {
+      "path": "assets/ui/maoyi-icons.png",
+      "md5": "dc4475e33950bb314324ce3171f470c3",
+      "size": 2122800
+    },
+    {
+      "path": "assets/ui/table-bg-dark-school.png",
+      "md5": "2c2dc6544bf37aafd8208c55e7e5035a",
+      "size": 2130184
+    },
+    {
+      "path": "assets/ui/table-bg-jade-arena.png",
+      "md5": "8edb3a53886d537f5cd5fb83c5c98cfb",
+      "size": 2407696
+    },
+    {
+      "path": "assets/ui/table-bg.png",
+      "md5": "2ac43a0ac9369e6171de5dc9f1187796",
+      "size": 2193134
+    },
+    {
+      "path": "assets/ui/vfx/atlases/buff.json",
+      "md5": "be3b3d0e00e6756610f71a6f2023bd49",
+      "size": 4594
+    },
+    {
+      "path": "assets/ui/vfx/atlases/buff.png",
+      "md5": "fb43c72a646f0427e21778bc8242b825",
+      "size": 102741
+    },
+    {
+      "path": "assets/ui/vfx/atlases/defeat.json",
+      "md5": "bc48bae35d3d4b07bfe1142d7c7a8d05",
+      "size": 4694
+    },
+    {
+      "path": "assets/ui/vfx/atlases/defeat.png",
+      "md5": "0ab42b16f83c0b2b96cfaf2b94ab6621",
+      "size": 56452
+    },
+    {
+      "path": "assets/ui/vfx/atlases/fire.json",
+      "md5": "f6b4c8396b0747d83f36b121bab62986",
+      "size": 4594
+    },
+    {
+      "path": "assets/ui/vfx/atlases/fire.png",
+      "md5": "9641977bf9cf032320381e35538d19f8",
+      "size": 251029
+    },
+    {
+      "path": "assets/ui/vfx/atlases/guofeng-buff.json",
+      "md5": "ec7ee129e31e218124fb075f1f09e4ec",
+      "size": 4994
+    },
+    {
+      "path": "assets/ui/vfx/atlases/guofeng-buff.png",
+      "md5": "7cdcaab1bff45532ec9ac23b81d775ea",
+      "size": 243181
+    },
+    {
+      "path": "assets/ui/vfx/atlases/guofeng-defeat.json",
+      "md5": "4344290fc32e85f656bb48eaa131d2ad",
+      "size": 5094
+    },
+    {
+      "path": "assets/ui/vfx/atlases/guofeng-defeat.png",
+      "md5": "0ccbdf02782540bd48271ae4ced70f7b",
+      "size": 118659
+    },
+    {
+      "path": "assets/ui/vfx/atlases/guofeng-fire.json",
+      "md5": "76316022422d53d8e58dc878d577215d",
+      "size": 4994
+    },
+    {
+      "path": "assets/ui/vfx/atlases/guofeng-fire.png",
+      "md5": "8bc0b2640e4c02d8393eb93eb28ef25e",
+      "size": 202116
+    },
+    {
+      "path": "assets/ui/vfx/atlases/guofeng-heal.json",
+      "md5": "c1c76155876027e0cd52d101dc3402f3",
+      "size": 4994
+    },
+    {
+      "path": "assets/ui/vfx/atlases/guofeng-heal.png",
+      "md5": "0c6a6d050211bf92734018c508d72afe",
+      "size": 84637
+    },
+    {
+      "path": "assets/ui/vfx/atlases/guofeng-negate.json",
+      "md5": "9d18d79fc392d08d7f42f89a9c05a805",
+      "size": 5094
+    },
+    {
+      "path": "assets/ui/vfx/atlases/guofeng-negate.png",
+      "md5": "dcbf8f3926cc8d1ad8d5f5690c5bd394",
+      "size": 89206
+    },
+    {
+      "path": "assets/ui/vfx/atlases/guofeng-phase.json",
+      "md5": "00661949fcedc9fbda016a08c517da69",
+      "size": 5044
+    },
+    {
+      "path": "assets/ui/vfx/atlases/guofeng-phase.png",
+      "md5": "be107ec5bfd7d25c4ddf60097dbcd061",
+      "size": 51559
+    },
+    {
+      "path": "assets/ui/vfx/atlases/guofeng-poison.json",
+      "md5": "1d79d75414619b1a35b36bc373e798ce",
+      "size": 5094
+    },
+    {
+      "path": "assets/ui/vfx/atlases/guofeng-poison.png",
+      "md5": "8002da3beff7ac2a9108e8a0641fa8f2",
+      "size": 1106111
+    },
+    {
+      "path": "assets/ui/vfx/atlases/guofeng-slash.json",
+      "md5": "3b3b8dfa8109d779d18a3420f19668f7",
+      "size": 5044
+    },
+    {
+      "path": "assets/ui/vfx/atlases/guofeng-slash.png",
+      "md5": "4413c32011efccda52fd506148aac545",
+      "size": 351657
+    },
+    {
+      "path": "assets/ui/vfx/atlases/guofeng-thunder.json",
+      "md5": "ead81d7b34e7594dcf39541808581349",
+      "size": 5144
+    },
+    {
+      "path": "assets/ui/vfx/atlases/guofeng-thunder.png",
+      "md5": "21656f5c07a43d86ad6a4ae7a281555a",
+      "size": 540746
+    },
+    {
+      "path": "assets/ui/vfx/atlases/guofeng-trick.json",
+      "md5": "767a24867cf634f81fa8bc1459244160",
+      "size": 5044
+    },
+    {
+      "path": "assets/ui/vfx/atlases/guofeng-trick.png",
+      "md5": "0a07a5e702d29199be8a0b67bca7bae3",
+      "size": 124653
+    },
+    {
+      "path": "assets/ui/vfx/atlases/heal.json",
+      "md5": "ca4b21404e762d5418a8d58ee09c2643",
+      "size": 4594
+    },
+    {
+      "path": "assets/ui/vfx/atlases/heal.png",
+      "md5": "9365008a4e9d223429a4ccfa0c395792",
+      "size": 30341
+    },
+    {
+      "path": "assets/ui/vfx/atlases/impact.json",
+      "md5": "8da152df88aa0af4b1b95994c2147e82",
+      "size": 4694
+    },
+    {
+      "path": "assets/ui/vfx/atlases/impact.png",
+      "md5": "812a810a06270488ac3240ba49ef7904",
+      "size": 23883
+    },
+    {
+      "path": "assets/ui/vfx/atlases/poison.json",
+      "md5": "055ef41e03703fe213300600584cfbd4",
+      "size": 4694
+    },
+    {
+      "path": "assets/ui/vfx/atlases/poison.png",
+      "md5": "e9f367f4ebc2292e9f6dd40bc973e687",
+      "size": 535094
+    },
+    {
+      "path": "assets/ui/vfx/atlases/shield.json",
+      "md5": "12b65cdb1676f58fdcfeaf0e22a08d10",
+      "size": 4694
+    },
+    {
+      "path": "assets/ui/vfx/atlases/shield.png",
+      "md5": "54eca25f8e842920757ffa4375bc9e5b",
+      "size": 36135
+    },
+    {
+      "path": "assets/ui/vfx/atlases/slash.json",
+      "md5": "0cdea78930734c726e783e5724de55f6",
+      "size": 4644
+    },
+    {
+      "path": "assets/ui/vfx/atlases/slash.png",
+      "md5": "fa3aadc9cbcf30f93c3d1ec35a8960fe",
+      "size": 128461
+    },
+    {
+      "path": "assets/ui/vfx/atlases/thunder.json",
+      "md5": "f987bb0a2c8084b69218bada77b02446",
+      "size": 4744
+    },
+    {
+      "path": "assets/ui/vfx/atlases/thunder.png",
+      "md5": "6d559542af7522a1b87cafef9ab6b209",
+      "size": 495900
+    },
+    {
+      "path": "assets/ui/vfx/atlases/trick.json",
+      "md5": "1dcd3faf86545ac325604236c1a29fd3",
+      "size": 4644
+    },
+    {
+      "path": "assets/ui/vfx/atlases/trick.png",
+      "md5": "f56f88ba9538aa2cb03d1c8f33e9106b",
+      "size": 55613
+    },
+    {
+      "path": "assets/ui/vfx/cursor/ink.png",
+      "md5": "ea484b1a61cfa3b62411a854ed53323d",
+      "size": 24860
+    },
+    {
+      "path": "assets/ui/vfx/cursor/particle.png",
+      "md5": "af5eadad8555bf9d795b251da0530dac",
+      "size": 5555
+    },
+    {
+      "path": "assets/ui/vfx/cursor/sakura.png",
+      "md5": "085425502804d7936d81d9d4a5ef8eb0",
+      "size": 2327
+    },
+    {
+      "path": "assets/ui/vfx/THIRD_PARTY.md",
+      "md5": "9089c7c15d6b5b4bdaf94a4fc737ef0b",
+      "size": 1331
+    },
+    {
+      "path": "assets/ui/vfx/vfx-manifest.json",
+      "md5": "2689f205686b3ee3ee482df1f514334d",
+      "size": 8881
+    }
+  ]
+}

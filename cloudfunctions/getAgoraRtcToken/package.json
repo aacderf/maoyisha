@@ -1,0 +1,10 @@
+{
+  "name": "get-agora-rtc-token",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "dependencies": {
+    "@cloudbase/node-sdk": "^3.10.0",
+    "agora-token": "2.0.5"
+  }
+}

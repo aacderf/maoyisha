@@ -1,0 +1,2746 @@
+{
+  "version": 1,
+  "baseSize": 64,
+  "themes": {
+    "silksong": {
+      "default": {
+        "src": "assets/ui/cursors/silksong/png/default.png",
+        "width": 96,
+        "height": 96,
+        "hotspot": [
+          10,
+          9
+        ]
+      },
+      "pointer": {
+        "src": "assets/ui/cursors/silksong/png/pointer.png",
+        "width": 96,
+        "height": 96,
+        "hotspot": [
+          3,
+          30
+        ]
+      },
+      "text": {
+        "src": "assets/ui/cursors/silksong/png/text.png",
+        "width": 96,
+        "height": 96,
+        "hotspot": [
+          48,
+          42
+        ]
+      },
+      "not-allowed": {
+        "src": "assets/ui/cursors/silksong/png/not-allowed.png",
+        "width": 96,
+        "height": 96,
+        "hotspot": [
+          42,
+          47
+        ]
+      }
+    },
+    "luoxiaohei": {
+      "default": {
+        "frames": [
+          {
+            "src": "assets/ui/cursors/luoxiaohei/png/default/frame-00.png",
+            "width": 256,
+            "height": 256,
+            "hotspot": [
+              33,
+              61
+            ],
+            "durationMs": 117
+          },
+          {
+            "src": "assets/ui/cursors/luoxiaohei/png/default/frame-01.png",
+            "width": 256,
+            "height": 256,
+            "hotspot": [
+              33,
+              61
+            ],
+            "durationMs": 117
+          },
+          {
+            "src": "assets/ui/cursors/luoxiaohei/png/default/frame-02.png",
+            "width": 256,
+            "height": 256,
+            "hotspot": [
+              33,
+              61
+            ],
+            "durationMs": 117
+          },
+          {
+            "src": "assets/ui/cursors/luoxiaohei/png/default/frame-03.png",
+            "width": 256,
+            "height": 256,
+            "hotspot": [
+              33,
+              61
+            ],
+            "durationMs": 117
+          },
+          {
+            "src": "assets/ui/cursors/luoxiaohei/png/default/frame-04.png",
+            "width": 256,
+            "height": 256,
+            "hotspot": [
+              33,
+              61
+            ],
+            "durationMs": 117
+          },
+          {
+            "src": "assets/ui/cursors/luoxiaohei/png/default/frame-05.png",
+            "width": 256,
+            "height": 256,
+            "hotspot": [
+              33,
+              61
+            ],
+            "durationMs": 117
+          },
+          {
+            "src": "assets/ui/cursors/luoxiaohei/png/default/frame-06.png",
+            "width": 256,
+            "height": 256,
+            "hotspot": [
+              33,
+              61
+            ],
+            "durationMs": 117
+          },
+          {
+            "src": "assets/ui/cursors/luoxiaohei/png/default/frame-07.png",
+            "width": 256,
+            "height": 256,
+            "hotspot": [
+              33,
+              61
+            ],
+            "durationMs": 117
+          },
+          {
+            "src": "assets/ui/cursors/luoxiaohei/png/default/frame-08.png",
+            "width": 256,
+            "height": 256,
+            "hotspot": [
+              33,
+              61
+            ],
+            "durationMs": 117
+          },
+          {
+            "src": "assets/ui/cursors/luoxiaohei/png/default/frame-09.png",
+            "width": 256,
+            "height": 256,
+            "hotspot": [
+              33,
+              61
+            ],
+            "durationMs": 117
+          },
+          {
+            "src": "assets/ui/cursors/luoxiaohei/png/default/frame-10.png",
+            "width": 256,
+            "height": 256,
+            "hotspot": [
+              33,
+              61
+            ],
+            "durationMs": 117
+          },
+          {
+            "src": "assets/ui/cursors/luoxiaohei/png/default/frame-11.png",
+            "width": 256,
+            "height": 256,
+            "hotspot": [
+              33,
+              61
+            ],
+            "durationMs": 117
+          },
+          {
+            "src": "assets/ui/cursors/luoxiaohei/png/default/frame-12.png",
+            "width": 256,
+            "height": 256,
+            "hotspot": [
+              33,
+              61
+            ],
+            "durationMs": 117
+          },
+          {
+            "src": "assets/ui/cursors/luoxiaohei/png/default/frame-13.png",
+            "width": 256,
+            "height": 256,
+            "hotspot": [
+              33,
+              61
+            ],
+            "durationMs": 117
+          },
+          {
+            "src": "assets/ui/cursors/luoxiaohei/png/default/frame-14.png",
+            "width": 256,
+            "height": 256,
+            "hotspot": [
+              33,
+              61
+            ],
+            "durationMs": 117
+          },
+          {
+            "src": "assets/ui/cursors/luoxiaohei/png/default/frame-15.png",
+            "width": 256,
+            "height": 256,
+            "hotspot": [
+              33,
+              61
+            ],
+            "durationMs": 117
+          },
+          {
+            "src": "assets/ui/cursors/luoxiaohei/png/default/frame-16.png",
+            "width": 256,
+            "height": 256,
+            "hotspot": [
+              33,
+              61
+            ],
+            "durationMs": 117
+          },
+          {
+            "src": "assets/ui/cursors/luoxiaohei/png/default/frame-17.png",
+            "width": 256,
+            "height": 256,
+            "hotspot": [
+              33,
+              61
+            ],
+            "durationMs": 117
+          }
+        ]
+      },
+      "pointer": {
+        "src": "assets/ui/cursors/luoxiaohei/png/pointer.png",
+        "width": 256,
+        "height": 256,
+        "hotspot": [
+          33,
+          61
+        ]
+      },
+      "text": {
+        "src": "assets/ui/cursors/luoxiaohei/png/text.png",
+        "width": 256,
+        "height": 256,
+        "hotspot": [
+          28,
+          60
+        ]
+      },
+      "not-allowed": {
+        "src": "assets/ui/cursors/luoxiaohei/png/not-allowed.png",
+        "width": 256,
+        "height": 256,
+        "hotspot": [
+          78,
+          100
+        ]
+      }
+    },
+    "silverwolf": {
+      "default": {
+        "frames": [
+          {
+            "src": "assets/ui/cursors/silverwolf/png/default/frame-00.png",
+            "width": 256,
+            "height": 256,
+            "hotspot": [
+              0,
+              0
+            ],
+            "durationMs": 83
+          },
+          {
+            "src": "assets/ui/cursors/silverwolf/png/default/frame-01.png",
+            "width": 256,
+            "height": 256,
+            "hotspot": [
+              0,
+              0
+            ],
+            "durationMs": 83
+          },
+          {
+            "src": "assets/ui/cursors/silverwolf/png/default/frame-02.png",
+            "width": 256,
+            "height": 256,
+            "hotspot": [
+              0,
+              0
+            ],
+            "durationMs": 83
+          },
+          {
+            "src": "assets/ui/cursors/silverwolf/png/default/frame-03.png",
+            "width": 256,
+            "height": 256,
+            "hotspot": [
+              0,
+              0
+            ],
+            "durationMs": 83
+          },
+          {
+            "src": "assets/ui/cursors/silverwolf/png/default/frame-04.png",
+            "width": 256,
+            "height": 256,
+            "hotspot": [
+              0,
+              0
+            ],
+            "durationMs": 83
+          },
+          {
+            "src": "assets/ui/cursors/silverwolf/png/default/frame-05.png",
+            "width": 256,
+            "height": 256,
+            "hotspot": [
+              0,
+              0
+            ],
+            "durationMs": 83
+          },
+          {
+            "src": "assets/ui/cursors/silverwolf/png/default/frame-06.png",
+            "width": 256,
+            "height": 256,
+            "hotspot": [
+              0,
+              0
+            ],
+            "durationMs": 83
+          },
+          {
+            "src": "assets/ui/cursors/silverwolf/png/default/frame-07.png",
+            "width": 256,
+            "height": 256,
+            "hotspot": [
+              0,
+              0
+            ],
+            "durationMs": 83
+          },
+          {
+            "src": "assets/ui/cursors/silverwolf/png/default/frame-08.png",
+            "width": 256,
+            "height": 256,
+            "hotspot": [
+              0,
+              0
+            ],
+            "durationMs": 83
+          },
+          {
+            "src": "assets/ui/cursors/silverwolf/png/default/frame-09.png",
+            "width": 256,
+            "height": 256,
+            "hotspot": [
+              0,
+              0
+            ],
+            "durationMs": 83
+          },
+          {
+            "src": "assets/ui/cursors/silverwolf/png/default/frame-10.png",
+            "width": 256,
+            "height": 256,
+            "hotspot": [
+              0,
+              0
+            ],
+            "durationMs": 83
+          },
+          {
+            "src": "assets/ui/cursors/silverwolf/png/default/frame-11.png",
+            "width": 256,
+            "height": 256,
+            "hotspot": [
+              0,
+              0
+            ],
+            "durationMs": 83
+          },
+          {
+            "src": "assets/ui/cursors/silverwolf/png/default/frame-12.png",
+            "width": 256,
+            "height": 256,
+            "hotspot": [
+              0,
+              0
+            ],
+            "durationMs": 83
+          },
+          {
+            "src": "assets/ui/cursors/silverwolf/png/default/frame-13.png",
+            "width": 256,
+            "height": 256,
+            "hotspot": [
+              0,
+              0
+            ],
+            "durationMs": 83
+          },
+          {
+            "src": "assets/ui/cursors/silverwolf/png/default/frame-14.png",
+            "width": 256,
+            "height": 256,
+            "hotspot": [
+              0,
+              0
+            ],
+            "durationMs": 83
+          },
+          {
+            "src": "assets/ui/cursors/silverwolf/png/default/frame-15.png",
+            "width": 256,
+            "height": 256,
+            "hotspot": [
+              0,
+              0
+            ],
+            "durationMs": 83
+          },
+          {
+            "src": "assets/ui/cursors/silverwolf/png/default/frame-16.png",
+            "width": 256,
+            "height": 256,
+            "hotspot": [
+              0,
+              0
+            ],
+            "durationMs": 83
+          },
+          {
+            "src": "assets/ui/cursors/silverwolf/png/default/frame-17.png",
+            "width": 256,
+            "height": 256,
+            "hotspot": [
+              0,
+              0
+            ],
+            "durationMs": 83
+          },
+          {
+            "src": "assets/ui/cursors/silverwolf/png/default/frame-18.png",
+            "width": 256,
+            "height": 256,
+            "hotspot": [
+              0,
+              0
+            ],
+            "durationMs": 83
+          },
+          {
+            "src": "assets/ui/cursors/silverwolf/png/default/frame-19.png",
+            "width": 256,
+            "height": 256,
+            "hotspot": [
+              0,
+              0
+            ],
+            "durationMs": 83
+          }
+        ]
+      },
+      "pointer": {
+        "frames": [
+          {
+            "src": "assets/ui/cursors/silverwolf/png/pointer/frame-00.png",
+            "width": 256,
+            "height": 256,
+            "hotspot": [
+              0,
+              0
+            ],
+            "durationMs": 83
+          },
+          {
+            "src": "assets/ui/cursors/silverwolf/png/pointer/frame-01.png",
+            "width": 256,
+            "height": 256,
+            "hotspot": [
+              0,
+              0
+            ],
+            "durationMs": 83
+          },
+          {
+            "src": "assets/ui/cursors/silverwolf/png/pointer/frame-02.png",
+            "width": 256,
+            "height": 256,
+            "hotspot": [
+              0,
+              0
+            ],
+            "durationMs": 83
+          },
+          {
+            "src": "assets/ui/cursors/silverwolf/png/pointer/frame-03.png",
+            "width": 256,
+            "height": 256,
+            "hotspot": [
+              0,
+              0
+            ],
+            "durationMs": 83
+          },
+          {
+            "src": "assets/ui/cursors/silverwolf/png/pointer/frame-04.png",
+            "width": 256,
+            "height": 256,
+            "hotspot": [
+              0,
+              0
+            ],
+            "durationMs": 83
+          },
+          {
+            "src": "assets/ui/cursors/silverwolf/png/pointer/frame-05.png",
+            "width": 256,
+            "height": 256,
+            "hotspot": [
+              0,
+              0
+            ],
+            "durationMs": 83
+          }
+        ]
+      },
+      "text": {
+        "frames": [
+          {
+            "src": "assets/ui/cursors/silverwolf/png/text/frame-00.png",
+            "width": 256,
+            "height": 256,
+            "hotspot": [
+              30,
+              128
+            ],
+            "durationMs": 83
+          },
+          {
+            "src": "assets/ui/cursors/silverwolf/png/text/frame-01.png",
+            "width": 256,
+            "height": 256,
+            "hotspot": [
+              30,
+              128
+            ],
+            "durationMs": 83
+          },
+          {
+            "src": "assets/ui/cursors/silverwolf/png/text/frame-02.png",
+            "width": 256,
+            "height": 256,
+            "hotspot": [
+              30,
+              128
+            ],
+            "durationMs": 83
+          },
+          {
+            "src": "assets/ui/cursors/silverwolf/png/text/frame-03.png",
+            "width": 256,
+            "height": 256,
+            "hotspot": [
+              30,
+              128
+            ],
+            "durationMs": 83
+          },
+          {
+            "src": "assets/ui/cursors/silverwolf/png/text/frame-04.png",
+            "width": 256,
+            "height": 256,
+            "hotspot": [
+              30,
+              128
+            ],
+            "durationMs": 83
+          },
+          {
+            "src": "assets/ui/cursors/silverwolf/png/text/frame-05.png",
+            "width": 256,
+            "height": 256,
+            "hotspot": [
+              30,
+              128
+            ],
+            "durationMs": 83
+          },
+          {
+            "src": "assets/ui/cursors/silverwolf/png/text/frame-06.png",
+            "width": 256,
+            "height": 256,
+            "hotspot": [
+              30,
+              128
+            ],
+            "durationMs": 83
+          },
+          {
+            "src": "assets/ui/cursors/silverwolf/png/text/frame-07.png",
+            "width": 256,
+            "height": 256,
+            "hotspot": [
+              30,
+              128
+            ],
+            "durationMs": 83
+          },
+          {
+            "src": "assets/ui/cursors/silverwolf/png/text/frame-08.png",
+            "width": 256,
+            "height": 256,
+            "hotspot": [
+              30,
+              128
+            ],
+            "durationMs": 83
+          },
+          {
+            "src": "assets/ui/cursors/silverwolf/png/text/frame-09.png",
+            "width": 256,
+            "height": 256,
+            "hotspot": [
+              30,
+              128
+            ],
+            "durationMs": 83
+          },
+          {
+            "src": "assets/ui/cursors/silverwolf/png/text/frame-10.png",
+            "width": 256,
+            "height": 256,
+            "hotspot": [
+              30,
+              128
+            ],
+            "durationMs": 83
+          },
+          {
+            "src": "assets/ui/cursors/silverwolf/png/text/frame-11.png",
+            "width": 256,
+            "height": 256,
+            "hotspot": [
+              30,
+              128
+            ],
+            "durationMs": 83
+          },
+          {
+            "src": "assets/ui/cursors/silverwolf/png/text/frame-12.png",
+            "width": 256,
+            "height": 256,
+            "hotspot": [
+              30,
+              128
+            ],
+            "durationMs": 83
+          },
+          {
+            "src": "assets/ui/cursors/silverwolf/png/text/frame-13.png",
+            "width": 256,
+            "height": 256,
+            "hotspot": [
+              30,
+              128
+            ],
+            "durationMs": 83
+          },
+          {
+            "src": "assets/ui/cursors/silverwolf/png/text/frame-14.png",
+            "width": 256,
+            "height": 256,
+            "hotspot": [
+              30,
+              128
+            ],
+            "durationMs": 83
+          },
+          {
+            "src": "assets/ui/cursors/silverwolf/png/text/frame-15.png",
+            "width": 256,
+            "height": 256,
+            "hotspot": [
+              30,
+              128
+            ],
+            "durationMs": 83
+          },
+          {
+            "src": "assets/ui/cursors/silverwolf/png/text/frame-16.png",
+            "width": 256,
+            "height": 256,
+            "hotspot": [
+              30,
+              128
+            ],
+            "durationMs": 83
+          },
+          {
+            "src": "assets/ui/cursors/silverwolf/png/text/frame-17.png",
+            "width": 256,
+            "height": 256,
+            "hotspot": [
+              30,
+              128
+            ],
+            "durationMs": 83
+          },
+          {
+            "src": "assets/ui/cursors/silverwolf/png/text/frame-18.png",
+            "width": 256,
+            "height": 256,
+            "hotspot": [
+              30,
+              128
+            ],
+            "durationMs": 83
+          },
+          {
+            "src": "assets/ui/cursors/silverwolf/png/text/frame-19.png",
+            "width": 256,
+            "height": 256,
+            "hotspot": [
+              30,
+              128
+            ],
+            "durationMs": 83
+          },
+          {
+            "src": "assets/ui/cursors/silverwolf/png/text/frame-20.png",
+            "width": 256,
+            "height": 256,
+            "hotspot": [
+              30,
+              128
+            ],
+            "durationMs": 83
+          },
+          {
+            "src": "assets/ui/cursors/silverwolf/png/text/frame-21.png",
+            "width": 256,
+            "height": 256,
+            "hotspot": [
+              30,
+              128
+            ],
+            "durationMs": 83
+          },
+          {
+            "src": "assets/ui/cursors/silverwolf/png/text/frame-22.png",
+            "width": 256,
+            "height": 256,
+            "hotspot": [
+              30,
+              128
+            ],
+            "durationMs": 83
+          }
+        ]
+      },
+      "not-allowed": {
+        "frames": [
+          {
+            "src": "assets/ui/cursors/silverwolf/png/not-allowed/frame-00.png",
+            "width": 256,
+            "height": 256,
+            "hotspot": [
+              0,
+              0
+            ],
+            "durationMs": 83
+          },
+          {
+            "src": "assets/ui/cursors/silverwolf/png/not-allowed/frame-01.png",
+            "width": 256,
+            "height": 256,
+            "hotspot": [
+              0,
+              0
+            ],
+            "durationMs": 83
+          }
+        ]
+      }
+    },
+    "firefly": {
+      "default": {
+        "frames": [
+          {
+            "src": "assets/ui/cursors/firefly/png/default/frame-00.png",
+            "width": 128,
+            "height": 128,
+            "hotspot": [
+              0,
+              0
+            ],
+            "durationMs": 83
+          },
+          {
+            "src": "assets/ui/cursors/firefly/png/default/frame-01.png",
+            "width": 128,
+            "height": 128,
+            "hotspot": [
+              0,
+              0
+            ],
+            "durationMs": 83
+          },
+          {
+            "src": "assets/ui/cursors/firefly/png/default/frame-02.png",
+            "width": 128,
+            "height": 128,
+            "hotspot": [
+              0,
+              0
+            ],
+            "durationMs": 83
+          },
+          {
+            "src": "assets/ui/cursors/firefly/png/default/frame-03.png",
+            "width": 128,
+            "height": 128,
+            "hotspot": [
+              0,
+              0
+            ],
+            "durationMs": 83
+          },
+          {
+            "src": "assets/ui/cursors/firefly/png/default/frame-04.png",
+            "width": 128,
+            "height": 128,
+            "hotspot": [
+              0,
+              0
+            ],
+            "durationMs": 83
+          },
+          {
+            "src": "assets/ui/cursors/firefly/png/default/frame-05.png",
+            "width": 128,
+            "height": 128,
+            "hotspot": [
+              0,
+              0
+            ],
+            "durationMs": 83
+          },
+          {
+            "src": "assets/ui/cursors/firefly/png/default/frame-06.png",
+            "width": 128,
+            "height": 128,
+            "hotspot": [
+              0,
+              0
+            ],
+            "durationMs": 83
+          },
+          {
+            "src": "assets/ui/cursors/firefly/png/default/frame-07.png",
+            "width": 128,
+            "height": 128,
+            "hotspot": [
+              0,
+              0
+            ],
+            "durationMs": 83
+          },
+          {
+            "src": "assets/ui/cursors/firefly/png/default/frame-08.png",
+            "width": 128,
+            "height": 128,
+            "hotspot": [
+              0,
+              0
+            ],
+            "durationMs": 83
+          },
+          {
+            "src": "assets/ui/cursors/firefly/png/default/frame-09.png",
+            "width": 128,
+            "height": 128,
+            "hotspot": [
+              0,
+              0
+            ],
+            "durationMs": 83
+          },
+          {
+            "src": "assets/ui/cursors/firefly/png/default/frame-10.png",
+            "width": 128,
+            "height": 128,
+            "hotspot": [
+              0,
+              0
+            ],
+            "durationMs": 83
+          },
+          {
+            "src": "assets/ui/cursors/firefly/png/default/frame-11.png",
+            "width": 128,
+            "height": 128,
+            "hotspot": [
+              0,
+              0
+            ],
+            "durationMs": 83
+          }
+        ]
+      },
+      "pointer": {
+        "frames": [
+          {
+            "src": "assets/ui/cursors/firefly/png/pointer/frame-00.png",
+            "width": 128,
+            "height": 128,
+            "hotspot": [
+              20,
+              0
+            ],
+            "durationMs": 83
+          },
+          {
+            "src": "assets/ui/cursors/firefly/png/pointer/frame-01.png",
+            "width": 128,
+            "height": 128,
+            "hotspot": [
+              20,
+              0
+            ],
+            "durationMs": 83
+          },
+          {
+            "src": "assets/ui/cursors/firefly/png/pointer/frame-02.png",
+            "width": 128,
+            "height": 128,
+            "hotspot": [
+              20,
+              0
+            ],
+            "durationMs": 83
+          },
+          {
+            "src": "assets/ui/cursors/firefly/png/pointer/frame-03.png",
+            "width": 128,
+            "height": 128,
+            "hotspot": [
+              20,
+              0
+            ],
+            "durationMs": 83
+          },
+          {
+            "src": "assets/ui/cursors/firefly/png/pointer/frame-04.png",
+            "width": 128,
+            "height": 128,
+            "hotspot": [
+              20,
+              0
+            ],
+            "durationMs": 83
+          },
+          {
+            "src": "assets/ui/cursors/firefly/png/pointer/frame-05.png",
+            "width": 128,
+            "height": 128,
+            "hotspot": [
+              20,
+              0
+            ],
+            "durationMs": 83
+          },
+          {
+            "src": "assets/ui/cursors/firefly/png/pointer/frame-06.png",
+            "width": 128,
+            "height": 128,
+            "hotspot": [
+              20,
+              0
+            ],
+            "durationMs": 83
+          },
+          {
+            "src": "assets/ui/cursors/firefly/png/pointer/frame-07.png",
+            "width": 128,
+            "height": 128,
+            "hotspot": [
+              20,
+              0
+            ],
+            "durationMs": 83
+          },
+          {
+            "src": "assets/ui/cursors/firefly/png/pointer/frame-08.png",
+            "width": 128,
+            "height": 128,
+            "hotspot": [
+              20,
+              0
+            ],
+            "durationMs": 83
+          },
+          {
+            "src": "assets/ui/cursors/firefly/png/pointer/frame-09.png",
+            "width": 128,
+            "height": 128,
+            "hotspot": [
+              20,
+              0
+            ],
+            "durationMs": 83
+          },
+          {
+            "src": "assets/ui/cursors/firefly/png/pointer/frame-10.png",
+            "width": 128,
+            "height": 128,
+            "hotspot": [
+              20,
+              0
+            ],
+            "durationMs": 83
+          },
+          {
+            "src": "assets/ui/cursors/firefly/png/pointer/frame-11.png",
+            "width": 128,
+            "height": 128,
+            "hotspot": [
+              20,
+              0
+            ],
+            "durationMs": 83
+          }
+        ]
+      },
+      "text": {
+        "frames": [
+          {
+            "src": "assets/ui/cursors/firefly/png/text/frame-00.png",
+            "width": 128,
+            "height": 128,
+            "hotspot": [
+              17,
+              35
+            ],
+            "durationMs": 83
+          },
+          {
+            "src": "assets/ui/cursors/firefly/png/text/frame-01.png",
+            "width": 128,
+            "height": 128,
+            "hotspot": [
+              17,
+              35
+            ],
+            "durationMs": 83
+          },
+          {
+            "src": "assets/ui/cursors/firefly/png/text/frame-02.png",
+            "width": 128,
+            "height": 128,
+            "hotspot": [
+              17,
+              35
+            ],
+            "durationMs": 83
+          },
+          {
+            "src": "assets/ui/cursors/firefly/png/text/frame-03.png",
+            "width": 128,
+            "height": 128,
+            "hotspot": [
+              17,
+              35
+            ],
+            "durationMs": 83
+          },
+          {
+            "src": "assets/ui/cursors/firefly/png/text/frame-04.png",
+            "width": 128,
+            "height": 128,
+            "hotspot": [
+              17,
+              35
+            ],
+            "durationMs": 83
+          },
+          {
+            "src": "assets/ui/cursors/firefly/png/text/frame-05.png",
+            "width": 128,
+            "height": 128,
+            "hotspot": [
+              17,
+              35
+            ],
+            "durationMs": 83
+          },
+          {
+            "src": "assets/ui/cursors/firefly/png/text/frame-06.png",
+            "width": 128,
+            "height": 128,
+            "hotspot": [
+              17,
+              35
+            ],
+            "durationMs": 83
+          },
+          {
+            "src": "assets/ui/cursors/firefly/png/text/frame-07.png",
+            "width": 128,
+            "height": 128,
+            "hotspot": [
+              17,
+              35
+            ],
+            "durationMs": 83
+          },
+          {
+            "src": "assets/ui/cursors/firefly/png/text/frame-08.png",
+            "width": 128,
+            "height": 128,
+            "hotspot": [
+              17,
+              35
+            ],
+            "durationMs": 83
+          },
+          {
+            "src": "assets/ui/cursors/firefly/png/text/frame-09.png",
+            "width": 128,
+            "height": 128,
+            "hotspot": [
+              17,
+              35
+            ],
+            "durationMs": 83
+          },
+          {
+            "src": "assets/ui/cursors/firefly/png/text/frame-10.png",
+            "width": 128,
+            "height": 128,
+            "hotspot": [
+              17,
+              35
+            ],
+            "durationMs": 83
+          },
+          {
+            "src": "assets/ui/cursors/firefly/png/text/frame-11.png",
+            "width": 128,
+            "height": 128,
+            "hotspot": [
+              17,
+              35
+            ],
+            "durationMs": 83
+          }
+        ]
+      },
+      "not-allowed": {
+        "frames": [
+          {
+            "src": "assets/ui/cursors/firefly/png/not-allowed/frame-00.png",
+            "width": 128,
+            "height": 128,
+            "hotspot": [
+              0,
+              0
+            ],
+            "durationMs": 83
+          },
+          {
+            "src": "assets/ui/cursors/firefly/png/not-allowed/frame-01.png",
+            "width": 128,
+            "height": 128,
+            "hotspot": [
+              0,
+              0
+            ],
+            "durationMs": 83
+          },
+          {
+            "src": "assets/ui/cursors/firefly/png/not-allowed/frame-02.png",
+            "width": 128,
+            "height": 128,
+            "hotspot": [
+              0,
+              0
+            ],
+            "durationMs": 83
+          },
+          {
+            "src": "assets/ui/cursors/firefly/png/not-allowed/frame-03.png",
+            "width": 128,
+            "height": 128,
+            "hotspot": [
+              0,
+              0
+            ],
+            "durationMs": 83
+          },
+          {
+            "src": "assets/ui/cursors/firefly/png/not-allowed/frame-04.png",
+            "width": 128,
+            "height": 128,
+            "hotspot": [
+              0,
+              0
+            ],
+            "durationMs": 83
+          },
+          {
+            "src": "assets/ui/cursors/firefly/png/not-allowed/frame-05.png",
+            "width": 128,
+            "height": 128,
+            "hotspot": [
+              0,
+              0
+            ],
+            "durationMs": 83
+          },
+          {
+            "src": "assets/ui/cursors/firefly/png/not-allowed/frame-06.png",
+            "width": 128,
+            "height": 128,
+            "hotspot": [
+              0,
+              0
+            ],
+            "durationMs": 83
+          },
+          {
+            "src": "assets/ui/cursors/firefly/png/not-allowed/frame-07.png",
+            "width": 128,
+            "height": 128,
+            "hotspot": [
+              0,
+              0
+            ],
+            "durationMs": 83
+          },
+          {
+            "src": "assets/ui/cursors/firefly/png/not-allowed/frame-08.png",
+            "width": 128,
+            "height": 128,
+            "hotspot": [
+              0,
+              0
+            ],
+            "durationMs": 83
+          },
+          {
+            "src": "assets/ui/cursors/firefly/png/not-allowed/frame-09.png",
+            "width": 128,
+            "height": 128,
+            "hotspot": [
+              0,
+              0
+            ],
+            "durationMs": 83
+          },
+          {
+            "src": "assets/ui/cursors/firefly/png/not-allowed/frame-10.png",
+            "width": 128,
+            "height": 128,
+            "hotspot": [
+              0,
+              0
+            ],
+            "durationMs": 83
+          },
+          {
+            "src": "assets/ui/cursors/firefly/png/not-allowed/frame-11.png",
+            "width": 128,
+            "height": 128,
+            "hotspot": [
+              0,
+              0
+            ],
+            "durationMs": 83
+          }
+        ]
+      }
+    },
+    "classicPointer": {
+      "default": {
+        "frames": [
+          {
+            "src": "assets/ui/cursors/classicPointer/png/default/frame-00.png",
+            "width": 121,
+            "height": 107,
+            "hotspot": [
+              10,
+              7
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/default/frame-01.png",
+            "width": 121,
+            "height": 107,
+            "hotspot": [
+              10,
+              7
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/default/frame-02.png",
+            "width": 121,
+            "height": 107,
+            "hotspot": [
+              10,
+              7
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/default/frame-03.png",
+            "width": 121,
+            "height": 107,
+            "hotspot": [
+              10,
+              7
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/default/frame-04.png",
+            "width": 121,
+            "height": 107,
+            "hotspot": [
+              10,
+              7
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/default/frame-05.png",
+            "width": 121,
+            "height": 107,
+            "hotspot": [
+              10,
+              7
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/default/frame-06.png",
+            "width": 121,
+            "height": 107,
+            "hotspot": [
+              10,
+              7
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/default/frame-07.png",
+            "width": 121,
+            "height": 107,
+            "hotspot": [
+              10,
+              7
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/default/frame-08.png",
+            "width": 121,
+            "height": 107,
+            "hotspot": [
+              10,
+              7
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/default/frame-09.png",
+            "width": 121,
+            "height": 107,
+            "hotspot": [
+              10,
+              7
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/default/frame-10.png",
+            "width": 121,
+            "height": 107,
+            "hotspot": [
+              10,
+              7
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/default/frame-11.png",
+            "width": 121,
+            "height": 107,
+            "hotspot": [
+              10,
+              7
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/default/frame-12.png",
+            "width": 121,
+            "height": 107,
+            "hotspot": [
+              10,
+              7
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/default/frame-13.png",
+            "width": 121,
+            "height": 107,
+            "hotspot": [
+              10,
+              7
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/default/frame-14.png",
+            "width": 121,
+            "height": 107,
+            "hotspot": [
+              10,
+              7
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/default/frame-15.png",
+            "width": 121,
+            "height": 107,
+            "hotspot": [
+              10,
+              7
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/default/frame-16.png",
+            "width": 121,
+            "height": 107,
+            "hotspot": [
+              10,
+              7
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/default/frame-17.png",
+            "width": 121,
+            "height": 107,
+            "hotspot": [
+              10,
+              7
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/default/frame-18.png",
+            "width": 121,
+            "height": 107,
+            "hotspot": [
+              10,
+              7
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/default/frame-19.png",
+            "width": 121,
+            "height": 107,
+            "hotspot": [
+              10,
+              7
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/default/frame-20.png",
+            "width": 121,
+            "height": 107,
+            "hotspot": [
+              10,
+              7
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/default/frame-21.png",
+            "width": 121,
+            "height": 107,
+            "hotspot": [
+              10,
+              7
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/default/frame-22.png",
+            "width": 121,
+            "height": 107,
+            "hotspot": [
+              10,
+              7
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/default/frame-23.png",
+            "width": 121,
+            "height": 107,
+            "hotspot": [
+              10,
+              7
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/default/frame-24.png",
+            "width": 121,
+            "height": 107,
+            "hotspot": [
+              10,
+              7
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/default/frame-25.png",
+            "width": 121,
+            "height": 107,
+            "hotspot": [
+              10,
+              7
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/default/frame-26.png",
+            "width": 121,
+            "height": 107,
+            "hotspot": [
+              10,
+              7
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/default/frame-27.png",
+            "width": 121,
+            "height": 107,
+            "hotspot": [
+              10,
+              7
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/default/frame-28.png",
+            "width": 121,
+            "height": 107,
+            "hotspot": [
+              10,
+              7
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/default/frame-29.png",
+            "width": 121,
+            "height": 107,
+            "hotspot": [
+              10,
+              7
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/default/frame-30.png",
+            "width": 121,
+            "height": 107,
+            "hotspot": [
+              10,
+              7
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/default/frame-31.png",
+            "width": 121,
+            "height": 107,
+            "hotspot": [
+              10,
+              7
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/default/frame-32.png",
+            "width": 121,
+            "height": 107,
+            "hotspot": [
+              10,
+              7
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/default/frame-33.png",
+            "width": 121,
+            "height": 107,
+            "hotspot": [
+              10,
+              7
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/default/frame-34.png",
+            "width": 121,
+            "height": 107,
+            "hotspot": [
+              10,
+              7
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/default/frame-35.png",
+            "width": 121,
+            "height": 107,
+            "hotspot": [
+              10,
+              7
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/default/frame-36.png",
+            "width": 121,
+            "height": 107,
+            "hotspot": [
+              10,
+              7
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/default/frame-37.png",
+            "width": 121,
+            "height": 107,
+            "hotspot": [
+              10,
+              7
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/default/frame-38.png",
+            "width": 121,
+            "height": 107,
+            "hotspot": [
+              10,
+              7
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/default/frame-39.png",
+            "width": 121,
+            "height": 107,
+            "hotspot": [
+              10,
+              7
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/default/frame-40.png",
+            "width": 121,
+            "height": 107,
+            "hotspot": [
+              10,
+              7
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/default/frame-41.png",
+            "width": 121,
+            "height": 107,
+            "hotspot": [
+              10,
+              7
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/default/frame-42.png",
+            "width": 121,
+            "height": 107,
+            "hotspot": [
+              10,
+              7
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/default/frame-43.png",
+            "width": 121,
+            "height": 107,
+            "hotspot": [
+              10,
+              7
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/default/frame-44.png",
+            "width": 121,
+            "height": 107,
+            "hotspot": [
+              10,
+              7
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/default/frame-45.png",
+            "width": 121,
+            "height": 107,
+            "hotspot": [
+              10,
+              7
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/default/frame-46.png",
+            "width": 121,
+            "height": 107,
+            "hotspot": [
+              10,
+              7
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/default/frame-47.png",
+            "width": 121,
+            "height": 107,
+            "hotspot": [
+              10,
+              7
+            ],
+            "durationMs": 33
+          }
+        ]
+      },
+      "pointer": {
+        "frames": [
+          {
+            "src": "assets/ui/cursors/classicPointer/png/pointer/frame-00.png",
+            "width": 106,
+            "height": 103,
+            "hotspot": [
+              5,
+              9
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/pointer/frame-01.png",
+            "width": 106,
+            "height": 103,
+            "hotspot": [
+              5,
+              9
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/pointer/frame-02.png",
+            "width": 106,
+            "height": 103,
+            "hotspot": [
+              5,
+              9
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/pointer/frame-03.png",
+            "width": 106,
+            "height": 103,
+            "hotspot": [
+              5,
+              9
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/pointer/frame-04.png",
+            "width": 106,
+            "height": 103,
+            "hotspot": [
+              5,
+              9
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/pointer/frame-05.png",
+            "width": 106,
+            "height": 103,
+            "hotspot": [
+              5,
+              9
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/pointer/frame-06.png",
+            "width": 106,
+            "height": 103,
+            "hotspot": [
+              5,
+              9
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/pointer/frame-07.png",
+            "width": 106,
+            "height": 103,
+            "hotspot": [
+              5,
+              9
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/pointer/frame-08.png",
+            "width": 106,
+            "height": 103,
+            "hotspot": [
+              5,
+              9
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/pointer/frame-09.png",
+            "width": 106,
+            "height": 103,
+            "hotspot": [
+              5,
+              9
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/pointer/frame-10.png",
+            "width": 106,
+            "height": 103,
+            "hotspot": [
+              5,
+              9
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/pointer/frame-11.png",
+            "width": 106,
+            "height": 103,
+            "hotspot": [
+              5,
+              9
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/pointer/frame-12.png",
+            "width": 106,
+            "height": 103,
+            "hotspot": [
+              5,
+              9
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/pointer/frame-13.png",
+            "width": 106,
+            "height": 103,
+            "hotspot": [
+              5,
+              9
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/pointer/frame-14.png",
+            "width": 106,
+            "height": 103,
+            "hotspot": [
+              5,
+              9
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/pointer/frame-15.png",
+            "width": 106,
+            "height": 103,
+            "hotspot": [
+              5,
+              9
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/pointer/frame-16.png",
+            "width": 106,
+            "height": 103,
+            "hotspot": [
+              5,
+              9
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/pointer/frame-17.png",
+            "width": 106,
+            "height": 103,
+            "hotspot": [
+              5,
+              9
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/pointer/frame-18.png",
+            "width": 106,
+            "height": 103,
+            "hotspot": [
+              5,
+              9
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/pointer/frame-19.png",
+            "width": 106,
+            "height": 103,
+            "hotspot": [
+              5,
+              9
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/pointer/frame-20.png",
+            "width": 106,
+            "height": 103,
+            "hotspot": [
+              5,
+              9
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/pointer/frame-21.png",
+            "width": 106,
+            "height": 103,
+            "hotspot": [
+              5,
+              9
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/pointer/frame-22.png",
+            "width": 106,
+            "height": 103,
+            "hotspot": [
+              5,
+              9
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/pointer/frame-23.png",
+            "width": 106,
+            "height": 103,
+            "hotspot": [
+              5,
+              9
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/pointer/frame-24.png",
+            "width": 106,
+            "height": 103,
+            "hotspot": [
+              5,
+              9
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/pointer/frame-25.png",
+            "width": 106,
+            "height": 103,
+            "hotspot": [
+              5,
+              9
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/pointer/frame-26.png",
+            "width": 106,
+            "height": 103,
+            "hotspot": [
+              5,
+              9
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/pointer/frame-27.png",
+            "width": 106,
+            "height": 103,
+            "hotspot": [
+              5,
+              9
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/pointer/frame-28.png",
+            "width": 106,
+            "height": 103,
+            "hotspot": [
+              5,
+              9
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/pointer/frame-29.png",
+            "width": 106,
+            "height": 103,
+            "hotspot": [
+              5,
+              9
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/pointer/frame-30.png",
+            "width": 106,
+            "height": 103,
+            "hotspot": [
+              5,
+              9
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/pointer/frame-31.png",
+            "width": 106,
+            "height": 103,
+            "hotspot": [
+              5,
+              9
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/pointer/frame-32.png",
+            "width": 106,
+            "height": 103,
+            "hotspot": [
+              5,
+              9
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/pointer/frame-33.png",
+            "width": 106,
+            "height": 103,
+            "hotspot": [
+              5,
+              9
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/pointer/frame-34.png",
+            "width": 106,
+            "height": 103,
+            "hotspot": [
+              5,
+              9
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/pointer/frame-35.png",
+            "width": 106,
+            "height": 103,
+            "hotspot": [
+              5,
+              9
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/pointer/frame-36.png",
+            "width": 106,
+            "height": 103,
+            "hotspot": [
+              5,
+              9
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/pointer/frame-37.png",
+            "width": 106,
+            "height": 103,
+            "hotspot": [
+              5,
+              9
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/pointer/frame-38.png",
+            "width": 106,
+            "height": 103,
+            "hotspot": [
+              5,
+              9
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/pointer/frame-39.png",
+            "width": 106,
+            "height": 103,
+            "hotspot": [
+              5,
+              9
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/pointer/frame-40.png",
+            "width": 106,
+            "height": 103,
+            "hotspot": [
+              5,
+              9
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/pointer/frame-41.png",
+            "width": 106,
+            "height": 103,
+            "hotspot": [
+              5,
+              9
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/pointer/frame-42.png",
+            "width": 106,
+            "height": 103,
+            "hotspot": [
+              5,
+              9
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/pointer/frame-43.png",
+            "width": 106,
+            "height": 103,
+            "hotspot": [
+              5,
+              9
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/pointer/frame-44.png",
+            "width": 106,
+            "height": 103,
+            "hotspot": [
+              5,
+              9
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/pointer/frame-45.png",
+            "width": 106,
+            "height": 103,
+            "hotspot": [
+              5,
+              9
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/pointer/frame-46.png",
+            "width": 106,
+            "height": 103,
+            "hotspot": [
+              5,
+              9
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/pointer/frame-47.png",
+            "width": 106,
+            "height": 103,
+            "hotspot": [
+              5,
+              9
+            ],
+            "durationMs": 33
+          }
+        ]
+      },
+      "text": {
+        "frames": [
+          {
+            "src": "assets/ui/cursors/classicPointer/png/text/frame-00.png",
+            "width": 117,
+            "height": 115,
+            "hotspot": [
+              21,
+              39
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/text/frame-01.png",
+            "width": 117,
+            "height": 115,
+            "hotspot": [
+              21,
+              39
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/text/frame-02.png",
+            "width": 117,
+            "height": 115,
+            "hotspot": [
+              21,
+              39
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/text/frame-03.png",
+            "width": 117,
+            "height": 115,
+            "hotspot": [
+              21,
+              39
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/text/frame-04.png",
+            "width": 117,
+            "height": 115,
+            "hotspot": [
+              21,
+              39
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/text/frame-05.png",
+            "width": 117,
+            "height": 115,
+            "hotspot": [
+              21,
+              39
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/text/frame-06.png",
+            "width": 117,
+            "height": 115,
+            "hotspot": [
+              21,
+              39
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/text/frame-07.png",
+            "width": 117,
+            "height": 115,
+            "hotspot": [
+              21,
+              39
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/text/frame-08.png",
+            "width": 117,
+            "height": 115,
+            "hotspot": [
+              21,
+              39
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/text/frame-09.png",
+            "width": 117,
+            "height": 115,
+            "hotspot": [
+              21,
+              39
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/text/frame-10.png",
+            "width": 117,
+            "height": 115,
+            "hotspot": [
+              21,
+              39
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/text/frame-11.png",
+            "width": 117,
+            "height": 115,
+            "hotspot": [
+              21,
+              39
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/text/frame-12.png",
+            "width": 117,
+            "height": 115,
+            "hotspot": [
+              21,
+              39
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/text/frame-13.png",
+            "width": 117,
+            "height": 115,
+            "hotspot": [
+              21,
+              39
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/text/frame-14.png",
+            "width": 117,
+            "height": 115,
+            "hotspot": [
+              21,
+              39
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/text/frame-15.png",
+            "width": 117,
+            "height": 115,
+            "hotspot": [
+              21,
+              39
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/text/frame-16.png",
+            "width": 117,
+            "height": 115,
+            "hotspot": [
+              21,
+              39
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/text/frame-17.png",
+            "width": 117,
+            "height": 115,
+            "hotspot": [
+              21,
+              39
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/text/frame-18.png",
+            "width": 117,
+            "height": 115,
+            "hotspot": [
+              21,
+              39
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/text/frame-19.png",
+            "width": 117,
+            "height": 115,
+            "hotspot": [
+              21,
+              39
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/text/frame-20.png",
+            "width": 117,
+            "height": 115,
+            "hotspot": [
+              21,
+              39
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/text/frame-21.png",
+            "width": 117,
+            "height": 115,
+            "hotspot": [
+              21,
+              39
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/text/frame-22.png",
+            "width": 117,
+            "height": 115,
+            "hotspot": [
+              21,
+              39
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/text/frame-23.png",
+            "width": 117,
+            "height": 115,
+            "hotspot": [
+              21,
+              39
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/text/frame-24.png",
+            "width": 117,
+            "height": 115,
+            "hotspot": [
+              21,
+              39
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/text/frame-25.png",
+            "width": 117,
+            "height": 115,
+            "hotspot": [
+              21,
+              39
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/text/frame-26.png",
+            "width": 117,
+            "height": 115,
+            "hotspot": [
+              21,
+              39
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/text/frame-27.png",
+            "width": 117,
+            "height": 115,
+            "hotspot": [
+              21,
+              39
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/text/frame-28.png",
+            "width": 117,
+            "height": 115,
+            "hotspot": [
+              21,
+              39
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/text/frame-29.png",
+            "width": 117,
+            "height": 115,
+            "hotspot": [
+              21,
+              39
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/text/frame-30.png",
+            "width": 117,
+            "height": 115,
+            "hotspot": [
+              21,
+              39
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/text/frame-31.png",
+            "width": 117,
+            "height": 115,
+            "hotspot": [
+              21,
+              39
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/text/frame-32.png",
+            "width": 117,
+            "height": 115,
+            "hotspot": [
+              21,
+              39
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/text/frame-33.png",
+            "width": 117,
+            "height": 115,
+            "hotspot": [
+              21,
+              39
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/text/frame-34.png",
+            "width": 117,
+            "height": 115,
+            "hotspot": [
+              21,
+              39
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/text/frame-35.png",
+            "width": 117,
+            "height": 115,
+            "hotspot": [
+              21,
+              39
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/text/frame-36.png",
+            "width": 117,
+            "height": 115,
+            "hotspot": [
+              21,
+              39
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/text/frame-37.png",
+            "width": 117,
+            "height": 115,
+            "hotspot": [
+              21,
+              39
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/text/frame-38.png",
+            "width": 117,
+            "height": 115,
+            "hotspot": [
+              21,
+              39
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/text/frame-39.png",
+            "width": 117,
+            "height": 115,
+            "hotspot": [
+              21,
+              39
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/text/frame-40.png",
+            "width": 117,
+            "height": 115,
+            "hotspot": [
+              21,
+              39
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/text/frame-41.png",
+            "width": 117,
+            "height": 115,
+            "hotspot": [
+              21,
+              39
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/text/frame-42.png",
+            "width": 117,
+            "height": 115,
+            "hotspot": [
+              21,
+              39
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/text/frame-43.png",
+            "width": 117,
+            "height": 115,
+            "hotspot": [
+              21,
+              39
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/text/frame-44.png",
+            "width": 117,
+            "height": 115,
+            "hotspot": [
+              21,
+              39
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/text/frame-45.png",
+            "width": 117,
+            "height": 115,
+            "hotspot": [
+              21,
+              39
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/text/frame-46.png",
+            "width": 117,
+            "height": 115,
+            "hotspot": [
+              21,
+              39
+            ],
+            "durationMs": 33
+          },
+          {
+            "src": "assets/ui/cursors/classicPointer/png/text/frame-47.png",
+            "width": 117,
+            "height": 115,
+            "hotspot": [
+              21,
+              39
+            ],
+            "durationMs": 33
+          }
+        ]
+      },
+      "not-allowed": {
+        "src": "assets/ui/cursors/classicPointer/png/not-allowed.png",
+        "width": 32,
+        "height": 32,
+        "hotspot": [
+          16,
+          16
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "@cardgame/web",
+  "version": "1.5.10",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "build": "tsc -p tsconfig.json --noEmit && vite build",
+    "test": "vitest run src",
+    "typecheck": "tsc -p tsconfig.json --noEmit",
+    "preview": "vite preview --host 0.0.0.0"
+  },
+  "dependencies": {
+    "@cardgame/shared": "file:../../packages/shared",
+    "@cloudbase/js-sdk": "^3.3.13",
+    "agora-rtc-sdk-ng": "^4.24.4",
+    "lucide-react": "^0.561.0",
+    "photon-realtime": "^4.4.0",
+    "pixi.js": "^8.16.0",
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3"
+  },
+  "devDependencies": {
+    "@types/react": "^19.2.7",
+    "@types/react-dom": "^19.2.3",
+    "@vitejs/plugin-react": "^5.1.2",
+    "typescript": "^5.9.3",
+    "vite": "^7.3.2",
+    "vitest": "^4.1.8"
+  }
+}

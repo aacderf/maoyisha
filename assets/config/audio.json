@@ -1,0 +1,27 @@
+{
+  "bgm": [
+    { "id": "lobby", "label": "大厅", "scene": "lobby", "src": "bgm/lobby.mp3" },
+    { "id": "battle", "label": "战斗", "scene": "battle", "src": "bgm/battle.mp3" },
+    { "id": "qixi", "label": "七夕", "scene": "any", "src": "bgm/qixi.mp3" },
+    { "id": "sgs-1", "label": "三国杀 1", "scene": "any", "src": "bgm/sgs-1.mp3" },
+    { "id": "sgs-2", "label": "三国杀 2", "scene": "any", "src": "bgm/sgs-2.mp3" },
+    { "id": "sgs-3", "label": "三国杀 3", "scene": "any", "src": "bgm/sgs-3.mp3" },
+    { "id": "sgs-4", "label": "三国杀 4", "scene": "any", "src": "bgm/sgs-4.mp3" },
+    { "id": "happy-poker-1", "label": "欢乐斗地主 1", "scene": "any", "src": "bgm/happy-poker-1.mp3" },
+    { "id": "happy-poker-2", "label": "欢乐斗地主 2", "scene": "any", "src": "bgm/happy-poker-2.mp3" },
+    { "id": "happy-poker-3", "label": "欢乐斗地主 3", "scene": "any", "src": "bgm/happy-poker-3.mp3" },
+    { "id": "happy-poker-4", "label": "欢乐斗地主 4", "scene": "any", "src": "bgm/happy-poker-4.mp3" },
+    { "id": "pvz-1", "label": "植物大战僵尸 1", "scene": "any", "src": "bgm/pvz-1.mp3" },
+    { "id": "pvz-2", "label": "植物大战僵尸 2", "scene": "any", "src": "bgm/pvz-2.mp3" },
+    { "id": "pvz-3", "label": "植物大战僵尸 3", "scene": "any", "src": "bgm/pvz-3.mp3" },
+    { "id": "ski", "label": "滑雪大冒险", "scene": "any", "src": "bgm/ski.mp3" },
+    { "id": "ski-umamusume", "label": "滑雪大冒险 赛马娘版", "scene": "any", "src": "bgm/ski-umamusume.mp3" },
+    { "id": "asphalt", "label": "狂野飙车", "scene": "any", "src": "bgm/asphalt.mp3" },
+    { "id": "gta", "label": "GTA", "scene": "any", "src": "bgm/gta.mp3" },
+    { "id": "ryukyu", "label": "RYUKYUVANIA", "scene": "any", "src": "bgm/ryukyu.mp3" },
+    { "id": "spartanoue", "label": "spartanoue", "scene": "any", "src": "bgm/spartanoue.mp3" },
+    { "id": "titan", "label": "Titan", "scene": "any", "src": "bgm/titan.mp3" },
+    { "id": "wasted-instrumental", "label": "Wasted Instrumental", "scene": "any", "src": "bgm/wasted-instrumental.mp3" },
+    { "id": "passo-funk-djhaiou-remix", "label": "PASSO FUNK DJHAIOU REMIX", "scene": "any", "src": "bgm/passo-funk-djhaiou-remix.mp3" }
+  ]
+}

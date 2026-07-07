@@ -1,0 +1,273 @@
+{
+  "version": 1,
+  "frameSize": 256,
+  "frameCount": 24,
+  "fps": 30,
+  "defaultStyle": "guofeng",
+  "styles": {
+    "anime": {
+      "variants": {
+        "slash": {
+          "atlas": "assets/ui/vfx/atlases/slash.json",
+          "animation": "slash",
+          "scale": 1.22,
+          "source": "Effekseer tutorial 05_02_Sample/effect.efkefc",
+          "author": "Effekseer",
+          "license": "CC0-1.0"
+        },
+        "fire": {
+          "atlas": "assets/ui/vfx/atlases/fire.json",
+          "animation": "fire",
+          "scale": 1.15,
+          "source": "NextSoft01/MagicFire1.efkproj",
+          "author": "NextSoft",
+          "license": "CC0-1.0"
+        },
+        "thunder": {
+          "atlas": "assets/ui/vfx/atlases/thunder.json",
+          "animation": "thunder",
+          "scale": 1.18,
+          "source": "NextSoft01/MagicThunder.efkproj",
+          "author": "NextSoft",
+          "license": "CC0-1.0"
+        },
+        "heal": {
+          "atlas": "assets/ui/vfx/atlases/heal.json",
+          "animation": "heal",
+          "scale": 5.0,
+          "tint": "#8dffb4",
+          "source": "NextSoft01/MagicHeal1.efkproj",
+          "author": "NextSoft",
+          "license": "CC0-1.0"
+        },
+        "buff": {
+          "atlas": "assets/ui/vfx/atlases/buff.json",
+          "animation": "buff",
+          "scale": 1.36,
+          "tint": "#ffd77a",
+          "source": "NextSoft01/PowerUp.efkproj",
+          "author": "NextSoft",
+          "license": "CC0-1.0"
+        },
+        "trick": {
+          "atlas": "assets/ui/vfx/atlases/trick.json",
+          "animation": "trick",
+          "scale": 1.72,
+          "tint": "#cda8ff",
+          "source": "MAGICALxSPIRAL/MagicArea.efkproj",
+          "author": "MAGICALxSPIRAL",
+          "license": "CC0-1.0"
+        },
+        "negate": {
+          "atlas": "assets/ui/vfx/atlases/shield.json",
+          "animation": "shield",
+          "scale": 2.0,
+          "tint": "#8ff8ee",
+          "source": "NextSoft01/MagicShield.efkproj",
+          "author": "NextSoft",
+          "license": "CC0-1.0"
+        },
+        "phase": {
+          "atlas": "assets/ui/vfx/atlases/impact.json",
+          "animation": "impact",
+          "scale": 2.05,
+          "tint": "#ffd77a",
+          "source": "MAGICALxSPIRAL/Attack_Impact.efkproj",
+          "author": "MAGICALxSPIRAL",
+          "license": "CC0-1.0"
+        },
+        "defeat": {
+          "atlas": "assets/ui/vfx/atlases/defeat.json",
+          "animation": "defeat",
+          "scale": 1.28,
+          "tint": "#ff8d72",
+          "source": "MAGICALxSPIRAL/Breakdown.efkproj",
+          "author": "MAGICALxSPIRAL",
+          "license": "CC0-1.0"
+        },
+        "poison": {
+          "atlas": "assets/ui/vfx/atlases/poison.json",
+          "animation": "poison",
+          "scale": 0.78,
+          "tint": "#86f279",
+          "source": "tktk01/Dark1.efkproj",
+          "author": "tktk",
+          "license": "CC0-1.0"
+        }
+      }
+    },
+    "guofeng": {
+      "variants": {
+        "slash": {
+          "atlas": "assets/ui/vfx/atlases/guofeng-slash.json",
+          "animation": "guofeng-slash",
+          "scale": 1.55,
+          "source": "Effekseer tutorial 05_02_Sample/effect.efkefc (Maoyisha guofeng tint pass)",
+          "author": "Effekseer",
+          "license": "CC0-1.0"
+        },
+        "fire": {
+          "atlas": "assets/ui/vfx/atlases/guofeng-fire.json",
+          "animation": "guofeng-fire",
+          "scale": 1.34,
+          "source": "NextSoft01/MagicFire1.efkproj (Maoyisha guofeng tint pass)",
+          "author": "NextSoft",
+          "license": "CC0-1.0"
+        },
+        "thunder": {
+          "atlas": "assets/ui/vfx/atlases/guofeng-thunder.json",
+          "animation": "guofeng-thunder",
+          "scale": 1.38,
+          "source": "NextSoft01/MagicThunder.efkproj (Maoyisha guofeng tint pass)",
+          "author": "NextSoft",
+          "license": "CC0-1.0"
+        },
+        "heal": {
+          "atlas": "assets/ui/vfx/atlases/guofeng-heal.json",
+          "animation": "guofeng-heal",
+          "scale": 5.25,
+          "source": "NextSoft01/MagicHeal1.efkproj (Maoyisha guofeng tint pass)",
+          "author": "NextSoft",
+          "license": "CC0-1.0"
+        },
+        "buff": {
+          "atlas": "assets/ui/vfx/atlases/guofeng-buff.json",
+          "animation": "guofeng-buff",
+          "scale": 1.55,
+          "source": "NextSoft01/PowerUp.efkproj (Maoyisha guofeng tint pass)",
+          "author": "NextSoft",
+          "license": "CC0-1.0"
+        },
+        "trick": {
+          "atlas": "assets/ui/vfx/atlases/guofeng-trick.json",
+          "animation": "guofeng-trick",
+          "scale": 2.0,
+          "source": "MAGICALxSPIRAL/MagicArea.efkproj (Maoyisha guofeng tint pass)",
+          "author": "MAGICALxSPIRAL",
+          "license": "CC0-1.0"
+        },
+        "negate": {
+          "atlas": "assets/ui/vfx/atlases/guofeng-negate.json",
+          "animation": "guofeng-negate",
+          "scale": 2.18,
+          "source": "NextSoft01/MagicShield.efkproj (Maoyisha guofeng tint pass)",
+          "author": "NextSoft",
+          "license": "CC0-1.0"
+        },
+        "phase": {
+          "atlas": "assets/ui/vfx/atlases/guofeng-phase.json",
+          "animation": "guofeng-phase",
+          "scale": 2.28,
+          "source": "MAGICALxSPIRAL/Attack_Impact.efkproj (Maoyisha guofeng tint pass)",
+          "author": "MAGICALxSPIRAL",
+          "license": "CC0-1.0"
+        },
+        "defeat": {
+          "atlas": "assets/ui/vfx/atlases/guofeng-defeat.json",
+          "animation": "guofeng-defeat",
+          "scale": 1.44,
+          "source": "MAGICALxSPIRAL/Breakdown.efkproj (Maoyisha guofeng tint pass)",
+          "author": "MAGICALxSPIRAL",
+          "license": "CC0-1.0"
+        },
+        "poison": {
+          "atlas": "assets/ui/vfx/atlases/guofeng-poison.json",
+          "animation": "guofeng-poison",
+          "scale": 0.9,
+          "source": "tktk01/Dark1.efkproj (Maoyisha guofeng tint pass)",
+          "author": "tktk",
+          "license": "CC0-1.0"
+        }
+      }
+    }
+  },
+  "variants": {
+    "slash": {
+      "atlas": "assets/ui/vfx/atlases/slash.json",
+      "animation": "slash",
+      "scale": 1.22,
+      "source": "Effekseer tutorial 05_02_Sample/effect.efkefc",
+      "author": "Effekseer",
+      "license": "CC0-1.0"
+    },
+    "fire": {
+      "atlas": "assets/ui/vfx/atlases/fire.json",
+      "animation": "fire",
+      "scale": 1.15,
+      "source": "NextSoft01/MagicFire1.efkproj",
+      "author": "NextSoft",
+      "license": "CC0-1.0"
+    },
+    "thunder": {
+      "atlas": "assets/ui/vfx/atlases/thunder.json",
+      "animation": "thunder",
+      "scale": 1.18,
+      "source": "NextSoft01/MagicThunder.efkproj",
+      "author": "NextSoft",
+      "license": "CC0-1.0"
+    },
+    "heal": {
+      "atlas": "assets/ui/vfx/atlases/heal.json",
+      "animation": "heal",
+      "scale": 5.0,
+      "tint": "#8dffb4",
+      "source": "NextSoft01/MagicHeal1.efkproj",
+      "author": "NextSoft",
+      "license": "CC0-1.0"
+    },
+    "buff": {
+      "atlas": "assets/ui/vfx/atlases/buff.json",
+      "animation": "buff",
+      "scale": 1.36,
+      "tint": "#ffd77a",
+      "source": "NextSoft01/PowerUp.efkproj",
+      "author": "NextSoft",
+      "license": "CC0-1.0"
+    },
+    "trick": {
+      "atlas": "assets/ui/vfx/atlases/trick.json",
+      "animation": "trick",
+      "scale": 1.72,
+      "tint": "#cda8ff",
+      "source": "MAGICALxSPIRAL/MagicArea.efkproj",
+      "author": "MAGICALxSPIRAL",
+      "license": "CC0-1.0"
+    },
+    "negate": {
+      "atlas": "assets/ui/vfx/atlases/shield.json",
+      "animation": "shield",
+      "scale": 2.0,
+      "tint": "#8ff8ee",
+      "source": "NextSoft01/MagicShield.efkproj",
+      "author": "NextSoft",
+      "license": "CC0-1.0"
+    },
+    "phase": {
+      "atlas": "assets/ui/vfx/atlases/impact.json",
+      "animation": "impact",
+      "scale": 2.05,
+      "tint": "#ffd77a",
+      "source": "MAGICALxSPIRAL/Attack_Impact.efkproj",
+      "author": "MAGICALxSPIRAL",
+      "license": "CC0-1.0"
+    },
+    "defeat": {
+      "atlas": "assets/ui/vfx/atlases/defeat.json",
+      "animation": "defeat",
+      "scale": 1.28,
+      "tint": "#ff8d72",
+      "source": "MAGICALxSPIRAL/Breakdown.efkproj",
+      "author": "MAGICALxSPIRAL",
+      "license": "CC0-1.0"
+    },
+    "poison": {
+      "atlas": "assets/ui/vfx/atlases/poison.json",
+      "animation": "poison",
+      "scale": 0.78,
+      "tint": "#86f279",
+      "source": "tktk01/Dark1.efkproj",
+      "author": "tktk",
+      "license": "CC0-1.0"
+    }
+  }
+}

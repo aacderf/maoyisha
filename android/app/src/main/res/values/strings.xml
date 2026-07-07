@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">茂一杀</string>
+    <string name="title_activity_main">茂一杀</string>
+    <string name="package_name">com.hl.cardarena</string>
+    <string name="custom_url_scheme">com.hl.cardarena</string>
+</resources>

@@ -1,0 +1,35 @@
+[
+  {
+    "id": "werewolf",
+    "name": "狼人",
+    "camp": "werewolf",
+    "nightOrder": 1,
+    "description": "夜晚与狼队共同选择袭击目标，白天隐藏身份并参与放逐。"
+  },
+  {
+    "id": "seer",
+    "name": "预言家",
+    "camp": "good",
+    "nightOrder": 2,
+    "description": "每晚查验一名玩家，得知其属于狼人或好人阵营。"
+  },
+  {
+    "id": "witch",
+    "name": "女巫",
+    "camp": "good",
+    "nightOrder": 3,
+    "description": "拥有一瓶解药和一瓶毒药，每晚最多使用一种。"
+  },
+  {
+    "id": "hunter",
+    "name": "猎人",
+    "camp": "good",
+    "description": "被狼人击杀或放逐时可以开枪，被女巫毒死时不能开枪。"
+  },
+  {
+    "id": "villager",
+    "name": "平民",
+    "camp": "good",
+    "description": "没有夜间技能，通过发言和投票找出全部狼人。"
+  }
+]

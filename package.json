@@ -1,0 +1,110 @@
+{
+  "name": "card-arena",
+  "version": "1.5.10",
+  "description": "茂一杀多人联机卡牌游戏桌面原型",
+  "author": "HL",
+  "private": true,
+  "type": "module",
+  "main": "apps/desktop/main.cjs",
+  "workspaces": [
+    "apps/site",
+    "apps/web",
+    "packages/*"
+  ],
+  "scripts": {
+    "dev": "npm run build -w @cardgame/shared && npm run dev -w @cardgame/web",
+    "build": "npm run build -w @cardgame/shared && npm run build -w @cardgame/web",
+    "site:dev": "npm run dev -w @maoyisha/site",
+    "site:build": "npm run build -w @maoyisha/site",
+    "site:preview": "npm run preview -w @maoyisha/site",
+    "desktop:dev": "npm run build && electron .",
+    "desktop:exe": "npm run build && npm run build:rules-hotfix && npm run build:manifest && electron-builder --dir",
+    "desktop:dist": "npm run build && npm run build:rules-hotfix && npm run build:manifest && electron-builder --dir",
+    "desktop:installer": "npm run build && npm run build:rules-hotfix && npm run build:manifest && electron-builder --win nsis",
+    "build:rules-hotfix": "npm run build -w @cardgame/shared && node scripts/build_rules_hotfix.cjs",
+    "build:manifest": "node scripts/build_manifest.cjs",
+    "prepare:qiniu": "npm run build:rules-hotfix && npm run build:manifest && node scripts/prepare_qiniu_upload.cjs",
+    "android:add": "npx cap add android",
+    "android:sync": "npm run build && npm run build:rules-hotfix && npm run build:manifest && node scripts/prepare_android_web.cjs && npx cap sync android",
+    "android:apk": "npm run android:sync && node scripts/build_android_apk.cjs",
+    "release:package": "node scripts/package_release.cjs",
+    "release:offline-update": "node scripts/package_offline_update.cjs",
+    "test:offline-updater": "node scripts/test_offline_updater.cjs",
+    "test:photon-reconnect": "node scripts/test_photon_reconnect.cjs",
+    "test:photon-create": "node scripts/test_photon_create_room.cjs",
+    "qa:desktop": "node scripts/qa_desktop_layout.cjs",
+    "qa:vfx": "node scripts/qa_battle_vfx.cjs",
+    "qa:cursor": "node scripts/qa_custom_cursor.cjs",
+    "qa:electron": "node scripts/qa_electron.cjs",
+    "android:open": "npx cap open android",
+    "test": "npm run test -w @cardgame/shared && npm run test -w @cardgame/web",
+    "typecheck": "npm run typecheck -w @cardgame/shared && npm run build -w @cardgame/shared && npm run typecheck -w @cardgame/web"
+  },
+  "build": {
+    "appId": "com.hl.cardarena",
+    "productName": "茂一杀",
+    "asar": true,
+    "directories": {
+      "output": "release",
+      "buildResources": "apps/desktop/build"
+    },
+    "files": [
+      "package.json",
+      "apps/desktop/**/*",
+      "apps/web/dist/**/*"
+    ],
+    "extraFiles": [
+      {
+        "from": "assets",
+        "to": "assets"
+      },
+      {
+        "from": "version.json",
+        "to": "version.json",
+        "filter": [
+          "**/*"
+        ]
+      },
+      {
+        "from": "version.sig",
+        "to": "version.sig",
+        "filter": [
+          "**/*"
+        ]
+      }
+    ],
+    "win": {
+      "signAndEditExecutable": false,
+      "target": [
+        {
+          "target": "nsis",
+          "arch": [
+            "x64"
+          ]
+        }
+      ]
+    },
+    "nsis": {
+      "oneClick": false,
+      "allowToChangeInstallationDirectory": true,
+      "createDesktopShortcut": true,
+      "createStartMenuShortcut": true,
+      "shortcutName": "茂一杀"
+    }
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^8.4.1",
+    "electron": "^42.3.0",
+    "electron-builder": "^26.8.1",
+    "playwright": "^1.61.1",
+    "typescript": "^5.9.3",
+    "vitest": "^4.0.15"
+  },
+  "dependencies": {
+    "@capacitor/android": "^8.4.1",
+    "@capacitor/app": "^8.1.0",
+    "@capacitor/core": "^8.4.1",
+    "@capacitor/network": "^8.0.1",
+    "@capacitor/screen-orientation": "^8.0.1"
+  }
+}
