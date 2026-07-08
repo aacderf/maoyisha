@@ -1,0 +1,7 @@
+{
+  "name": "maoyisha-site",
+  "installCommand": "npm install",
+  "buildCommand": "npm run site:build",
+  "outputDirectory": "apps/site/dist",
+  "nodeVersion": "22.11.0"
+}
